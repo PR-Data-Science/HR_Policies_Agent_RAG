@@ -255,17 +255,12 @@ class PDFIngestor:
                     "page": page,
                     "chunk_index": len(chunks),
                     "chunk_size": len(chunk_tokens),
-                    "total_chunks": None  # Will be updated later
+                    "total_chunks": None  # Will be set by load_pdfs() per PDF
                 }
             }
             
             chunks.append(chunk)
             self.chunks_created += 1
-        
-        # Update total_chunks for all chunks from this page
-        total = len(chunks)
-        for chunk in chunks:
-            chunk["metadata"]["total_chunks"] = total
         
         logger.debug(
             f"[CHUNKING] Created {len(chunks)} chunks from "
@@ -319,14 +314,22 @@ class PDFIngestor:
                     logger.warning(f"[PROCESSING] No text extracted from {pdf_path.name}")
                     continue
                 
-                # Create chunks from each page
+                # Create chunks from each page and track them per PDF
+                pdf_chunks = []
                 for page_text, page_num in pages_data:
                     chunks = self._create_chunks(
                         text=page_text,
                         source=pdf_path.name,
                         page=page_num
                     )
-                    all_chunks.extend(chunks)
+                    pdf_chunks.extend(chunks)
+                
+                # Update total_chunks for all chunks from this PDF
+                total_chunks_in_pdf = len(pdf_chunks)
+                for chunk in pdf_chunks:
+                    chunk["metadata"]["total_chunks"] = total_chunks_in_pdf
+                
+                all_chunks.extend(pdf_chunks)
                 
             except Exception as e:
                 logger.error(

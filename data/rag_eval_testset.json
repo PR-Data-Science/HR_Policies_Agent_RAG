@@ -1,0 +1,100 @@
+{
+  "samples": [
+    {
+      "query": "Who is eligible for the Employee Tuition Affordability Program (ETAP)?",
+      "relevant_doc_ids": [
+        "b27100c20f410c423c648d67ad592d2b642bca91bae03c92d01a11fb838ed341",
+        "9f47da6d7f48f7c4d812e3d1aa4f020450a58bce4a9e3f5d79053ffe3c391a42",
+        "d702250ef754ef3539d67791aedd2c2003da22b8540dd04fc3038897e6d070b8"
+      ]
+    },
+    {
+      "query": "What grade requirements must an employee meet to remain eligible for ETAP?",
+      "relevant_doc_ids": [
+        "cc82bfb24e90e05a82f3332cd773279633cfbe9c4d18c5b8f8225f51b85d1025",
+        "a1ec450899bbc8065bfcd1e04e466f96d64ac5cb7cbfaf5cb1d89fd08e18282f",
+        "b27100c20f410c423c648d67ad592d2b642bca91bae03c92d01a11fb838ed341"
+      ]
+    },
+    {
+      "query": "When must an employee be employed to qualify for Employee Dependent Scholarship?",
+      "relevant_doc_ids": [
+        "852c6fa2bb83df25e4247629d551ccdab55b46787285afc06f66035e3900b3d2",
+        "ddb25a17181db96eb1143aefdbb9e529287715b0c3178884d571c7fe15100515",
+        "84430c58892e969b3bb5b0666362647656c4d2998a60932bdc9a192482cef834"
+      ]
+    },
+    {
+      "query": "What is the approval process for UTA Dependent Scholarship benefits?",
+      "relevant_doc_ids": [
+        "760fcee143ada45380e6c9d1cbfab1f4d34481ff085c63fbb94f8167a308e311",
+        "ddb25a17181db96eb1143aefdbb9e529287715b0c3178884d571c7fe15100515",
+        "031ef57576ad1ad9c8ea2820a1a6bc01edbf5fff5029b7f8688b6329b7c19399"
+      ]
+    },
+    {
+      "query": "Where are training and education rules referenced for ETAP?",
+      "relevant_doc_ids": [
+        "30335a23c4b2a90755da7c412547b84ee661832db6ae2cbe940ba34a5f9bcc80",
+        "638574c3b06cef3bd97261c637dfdc280e63f3472082bad9309d832884703eef",
+        "4af587c702fbeddabc353b9c27ee2b7681619161eef9bcf7341912cf8667d01e"
+      ]
+    },
+    {
+      "query": "What are the requirements for requesting leave under 'Leave & Absences' policies?",
+      "relevant_doc_ids": [
+        "b7d896d4f21ff447d93ccf2d67dbed463c00ddebfc2ecb970fb6730263e71f14",
+        "f8087677725cb3e9ab694a48790cb5624a4f73d056657eb007e0940f4c7f2a47",
+        "27baa88f85d9743988c7c5047d5797042cec4cb7013322f4c8177b611187c90e"
+      ]
+    },
+    {
+      "query": "How is performance evaluated under Staff Performance & Evaluation policies?",
+      "relevant_doc_ids": [
+        "15450ff899fcf1b9ec51eadd4d4fb06b045fc6f88d2306ea95d2121edd49fb9b",
+        "efd332cfbea25c1721f8a3425f1f36a05f74d3ca86d24d6806403c4de4ccf031",
+        "1e1a9521c6ec50e02655290ae55d0a33c90f0278e74b1d171c15b5f1b95bf1f5"
+      ]
+    },
+    {
+      "query": "Can an employee get tuition assistance for graduate courses?",
+      "relevant_doc_ids": [
+        "b27100c20f410c423c648d67ad592d2b642bca91bae03c92d01a11fb838ed341",
+        "9f47da6d7f48f7c4d812e3d1aa4f020450a58bce4a9e3f5d79053ffe3c391a42",
+        "852c6fa2bb83df25e4247629d551ccdab55b46787285afc06f66035e3900b3d2"
+      ]
+    },
+    {
+      "query": "How many credit hours are covered by ETAP for full-time employees?",
+      "relevant_doc_ids": [
+        "b27100c20f410c423c648d67ad592d2b642bca91bae03c92d01a11fb838ed341",
+        "d702250ef754ef3539d67791aedd2c2003da22b8540dd04fc3038897e6d070b8",
+        "638574c3b06cef3bd97261c637dfdc280e63f3472082bad9309d832884703eef"
+      ]
+    },
+    {
+      "query": "Are retirees eligible for ETAP?",
+      "relevant_doc_ids": [
+        "b27100c20f410c423c648d67ad592d2b642bca91bae03c92d01a11fb838ed341",
+        "031ef57576ad1ad9c8ea2820a1a6bc01edbf5fff5029b7f8688b6329b7c19399",
+        "a1ec450899bbc8065bfcd1e04e466f96d64ac5cb7cbfaf5cb1d89fd08e18282f"
+      ]
+    },
+    {
+      "query": "What circumstances disqualify an employee from ETAP (Incompletes/Withdrawals)?",
+      "relevant_doc_ids": [
+        "a1ec450899bbc8065bfcd1e04e466f96d64ac5cb7cbfaf5cb1d89fd08e18282f",
+        "cc82bfb24e90e05a82f3332cd773279633cfbe9c4d18c5b8f8225f51b85d1025",
+        "638574c3b06cef3bd97261c637dfdc280e63f3472082bad9309d832884703eef"
+      ]
+    },
+    {
+      "query": "Is release time for classes guaranteed during work hours?",
+      "relevant_doc_ids": [
+        "95cd6994f4f293a8df3d8eb3314a0b509ed23f8e17a4e2de643f8ff83d36bc0e",
+        "86d5852fdd94fd41309e7e53a05eaff0d7c999050fd14cc4b5fe3bb82b982525",
+        "fe0131ae6d0982e37c13c4ee4a1a3af84c657ccb805e18e36f70831cc3a21037"
+      ]
+    }
+  ]
+}

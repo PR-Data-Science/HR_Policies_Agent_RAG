@@ -1,0 +1,52 @@
+{
+  "samples": [
+    {
+      "query": "Who is eligible for the Employee Tuition Affordability Program (ETAP)?",
+      "relevant_doc_ids": ["c27c31d0-72ed-4a95-afc8-a01bed867ab4", "09a8f908-9a32-4da0-aa59-6dbb3acb15c5"]
+    },
+    {
+      "query": "What grade requirements must an employee meet to remain eligible for ETAP?",
+      "relevant_doc_ids": ["8186a91c-2726-493c-91d2-5c71ab83d9ed", "fee36896-c150-4fba-8205-4161541b4d36"]
+    },
+    {
+      "query": "When must an employee be employed to qualify for Employee Dependent Scholarship?",
+      "relevant_doc_ids": ["9264db41-6f0a-4c8e-8ef3-0e4b847b302e", "7a760808-46cd-495e-aced-dac292080734"]
+    },
+    {
+      "query": "What is the approval process for UTA Dependent Scholarship benefits?",
+      "relevant_doc_ids": ["7a2d5e7f-17a3-43bf-8fff-558900230a0a"]
+    },
+    {
+      "query": "Where are training and education rules referenced for ETAP?",
+      "relevant_doc_ids": ["de64252f-d1d4-43bb-ac21-819cec442293"]
+    },
+    {
+      "query": "What are the requirements for requesting leave under 'Leave & Absences' policies?",
+      "relevant_doc_ids": ["069c12ef-ad21-4884-bb75-6a3c07ee257a"]
+    },
+    {
+      "query": "How is performance evaluated under Staff Performance & Evaluation policies?",
+      "relevant_doc_ids": ["d18a66c6-c3db-403b-9441-815611dfede4"]
+    },
+    {
+      "query": "Can an employee get tuition assistance for graduate courses?",
+      "relevant_doc_ids": ["c27c31d0-72ed-4a95-afc8-a01bed867ab4", "6a02625b-2dbe-4ed2-a46a-b5347c913b07"]
+    },
+    {
+      "query": "How many credit hours are covered by ETAP for full-time employees?",
+      "relevant_doc_ids": ["09a8f908-9a32-4da0-aa59-6dbb3acb15c5"]
+    },
+    {
+      "query": "Are retirees eligible for ETAP?",
+      "relevant_doc_ids": ["6b977a37-5440-44e6-8b6e-e33a34558e2e"]
+    },
+    {
+      "query": "What circumstances disqualify an employee from ETAP (Incompletes/Withdrawals)?",
+      "relevant_doc_ids": ["fee36896-c150-4fba-8205-4161541b4d36"]
+    },
+    {
+      "query": "Is release time for classes guaranteed during work hours?",
+      "relevant_doc_ids": ["6105d30d-c69f-4f89-b372-e46832d090a1"]
+    }
+  ]
+}

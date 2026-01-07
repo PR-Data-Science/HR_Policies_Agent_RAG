@@ -39,8 +39,13 @@ logging.basicConfig(
 
 # Constants
 MODEL_NAME = "gpt-4o"
-CHUNK_SIZE = 500
-CHUNK_OVERLAP = 150
+# Reduce default chunk size slightly (keeps chunks <800 tokens) and
+# target overlap of ~15% (within requested 10-20% range). If your
+# previous chunks were larger than 800 tokens this reduces them; if
+# already small this is a minimal controlled change.
+CHUNK_SIZE = 400
+# 15% overlap of 400 tokens = 60
+CHUNK_OVERLAP = 60
 
 
 class PDFIngestor:
@@ -234,7 +239,11 @@ class PDFIngestor:
         # Calculate stride (distance between chunk starts)
         stride = self.chunk_size - self.chunk_overlap
         
-        # Create overlapping chunks
+        # Create overlapping chunks. We try to keep chunks semantically
+        # coherent by decoding whole-token spans and skipping very small
+        # tail chunks. Chunk IDs are generated deterministically using a
+        # hash of the source, page and token start index so IDs remain
+        # stable across runs when input PDFs are unchanged.
         for i in range(0, len(tokens), stride):
             # Get chunk tokens
             chunk_tokens = tokens[i : i + self.chunk_size]
@@ -245,13 +254,26 @@ class PDFIngestor:
             
             # Decode tokens back to text
             chunk_text = self.encoder.decode(chunk_tokens)
-            
+
+            # Deterministic id derived from source, page and token offset
+            import hashlib
+
+            id_source = f"{source}::{page}::{i}"
+            doc_id = hashlib.sha256(id_source.encode("utf-8")).hexdigest()
+
+            # Infer light-weight metadata (policy_type) from filename prefix
+            policy_type = None
+            if isinstance(source, str) and "_" in source:
+                policy_type = source.split()[0]
+
             # Create chunk dictionary with metadata
             chunk = {
-                "id": str(uuid.uuid4()),
+                "id": doc_id,
                 "content": chunk_text,
                 "metadata": {
                     "source": source,
+                    "policy_type": policy_type,
+                    "section_name": None,
                     "page": page,
                     "chunk_index": len(chunks),
                     "chunk_size": len(chunk_tokens),

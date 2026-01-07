@@ -1,0 +1,170 @@
+{
+  "samples": [
+    {
+      "query": "Who is eligible for the Employee Tuition Affordability Program (ETAP)?",
+      "relevant_doc_ids": [
+        "b27100c20f410c423c648d67ad592d2b642bca91bae03c92d01a11fb838ed341",
+        "9f47da6d7f48f7c4d812e3d1aa4f020450a58bce4a9e3f5d79053ffe3c391a42",
+        "d702250ef754ef3539d67791aedd2c2003da22b8540dd04fc3038897e6d070b8"
+      ]
+    },
+    {
+      "query": "What grade requirements must an employee meet to remain eligible for ETAP?",
+      "relevant_doc_ids": [
+        "cc82bfb24e90e05a82f3332cd773279633cfbe9c4d18c5b8f8225f51b85d1025",
+        "a1ec450899bbc8065bfcd1e04e466f96d64ac5cb7cbfaf5cb1d89fd08e18282f",
+        "b27100c20f410c423c648d67ad592d2b642bca91bae03c92d01a11fb838ed341"
+      ]
+    },
+    {
+      "query": "When must an employee be employed to qualify for Employee Dependent Scholarship?",
+      "relevant_doc_ids": [
+        "852c6fa2bb83df25e4247629d551ccdab55b46787285afc06f66035e3900b3d2",
+        "ddb25a17181db96eb1143aefdbb9e529287715b0c3178884d571c7fe15100515",
+        "84430c58892e969b3bb5b0666362647656c4d2998a60932bdc9a192482cef834"
+      ]
+    },
+    {
+      "query": "What are the requirements for requesting leave under UTA's 'Leave & Absences' policies?",
+      "relevant_doc_ids": [
+        "b7d896d4f21ff447d93ccf2d67dbed463c00ddebfc2ecb970fb6730263e71f14",
+        "f8087677725cb3e9ab694a48790cb5624a4f73d056657eb007e0940f4c7f2a47",
+        "21852eab0e0ea471a59dc30bee74866697285cb90687cf71d3975c3afb683266"
+      ]
+    },
+    {
+      "query": "How is performance evaluated under Staff Performance & Evaluation policies?",
+      "relevant_doc_ids": [
+        "15450ff899fcf1b9ec51eadd4d4fb06b045fc6f88d2306ea95d2121edd49fb9b",
+        "efd332cfbea25c1721f8a3425f1f36a05f74d3ca86d24d6806403c4de4ccf031",
+        "1e1a9521c6ec50e02655290ae55d0a33c90f0278e74b1d171c15b5f1b95bf1f5"
+      ]
+    },
+    {
+      "query": "Can an employee get tuition assistance for graduate courses?",
+      "relevant_doc_ids": [
+        "b27100c20f410c423c648d67ad592d2b642bca91bae03c92d01a11fb838ed341",
+        "9f47da6d7f48f7c4d812e3d1aa4f020450a58bce4a9e3f5d79053ffe3c391a42"
+      ]
+    },
+    {
+      "query": "How many credit hours are covered by ETAP for full-time employees?",
+      "relevant_doc_ids": [
+        "b27100c20f410c423c648d67ad592d2b642bca91bae03c92d01a11fb838ed341",
+        "d702250ef754ef3539d67791aedd2c2003da22b8540dd04fc3038897e6d070b8"
+      ]
+    },
+    {
+      "query": "Are retirees eligible for ETAP benefits?",
+      "relevant_doc_ids": [
+        "031ef57576ad1ad9c8ea2820a1a6bc01edbf5fff5029b7f8688b6329b7c19399",
+        "b27100c20f410c423c648d67ad592d2b642bca91bae03c92d01a11fb838ed341"
+      ]
+    },
+    {
+      "query": "What circumstances disqualify an employee from ETAP (e.g., incompletes/withdrawals)?",
+      "relevant_doc_ids": [
+        "a1ec450899bbc8065bfcd1e04e466f96d64ac5cb7cbfaf5cb1d89fd08e18282f",
+        "cc82bfb24e90e05a82f3332cd773279633cfbe9c4d18c5b8f8225f51b85d1025"
+      ]
+    },
+    {
+      "query": "Is release time for classes guaranteed during work hours?",
+      "relevant_doc_ids": [
+        "95cd6994f4f293a8df3d8eb3314a0b509ed23f8e17a4e2de643f8ff83d36bc0e",
+        "fe0131ae6d0982e37c13c4ee4a1a3af84c657ccb805e18e36f70831cc3a21037"
+      ]
+    },
+    {
+      "query": "If I need time off to care for a newborn and also to travel for surgery, which leave policies could apply?",
+      "relevant_doc_ids": [
+        "b7d896d4f21ff447d93ccf2d67dbed463c00ddebfc2ecb970fb6730263e71f14",
+        "21852eab0e0ea471a59dc30bee74866697285cb90687cf71d3975c3afb683266"
+      ]
+    },
+    {
+      "query": "A supervisor asks whether a temporary worker is eligible for benefits—how do temporary vs regular policies differ?",
+      "relevant_doc_ids": [
+        "548a6deb6498a8df4cefb5c6a71b528d89f44d9ca1d295306f8d1ecad8cb1ff5",
+        "3aaee164d7ff5ae249243e7e9adcff932b03ea888b09c31ff94c665c7e0e1be6"
+      ]
+    },
+    {
+      "query": "Which policy governs Sick Leave Pool applications and how does it interact with FMLA?",
+      "relevant_doc_ids": [
+        "f8087677725cb3e9ab694a48790cb5624a4f73d056657eb007e0940f4c7f2a47",
+        "b7d896d4f21ff447d93ccf2d67dbed463c00ddebfc2ecb970fb6730263e71f14"
+      ]
+    },
+    {
+      "query": "If an employee's dependent gets a scholarship, can that be applied retroactively?",
+      "relevant_doc_ids": [
+        "b6f63ecf4e1238751a68f9d90144c31a4430e78ce3ac7e8b68b0721b0a5959c7",
+        "ddb25a17181db96eb1143aefdbb9e529287715b0c3178884d571c7fe15100515"
+      ]
+    },
+    {
+      "query": "I'm a student employee—what are my hourly limits and benefit eligibility?",
+      "relevant_doc_ids": [
+        "19a80b6d022bff6281be917f2247ca3a8c976d45c6cfa8032f85ddb890e8cfa1",
+        "41909c1838e6e46bc2d88b926fabf4700abc91f74eb7a828d89702098ff2b87d"
+      ]
+    },
+    {
+      "query": "Paraphrase: Who approves tuition assistance payments for ETAP?",
+      "relevant_doc_ids": [
+        "f81a51d580ae5b3e9d32caa4d22e5f776fd1f87d516347b81c1c89f188cd9497",
+        "4af587c702fbeddabc353b9c27ee2b7681619161eef9bcf7341912cf8667d01e"
+      ]
+    },
+    {
+      "query": "If an employee has intermittent need for leave because of chronic illness, which policy section explains intermittent scheduling?",
+      "relevant_doc_ids": [
+        "aff0aa3474b8ae48e20d9dd07b34520dcfc9762ee5099bc99302b77fea45f380",
+        "b677960965fb138898dead2c23a29014c777d1aaf9814bb80aacacafc795b17e"
+      ]
+    },
+    {
+      "query": "How do I submit an offer letter for a student employee? (indirect phrasing)",
+      "relevant_doc_ids": [
+        "11af08041749e067c35c7b265e254bdce4268a11867f46003e8da9198e2525d0",
+        "de6fbc5081c50991cbd97d5473858aec7122dd3490b5bb2d8a26d3dea3df9c2d"
+      ]
+    },
+    {
+      "query": "Are temporary employees eligible for benefits when they convert to regular staff?",
+      "relevant_doc_ids": [
+        "eca5eec3b4eda2fcee252a02ae654c9d174ead643202786b4ac138b8e13c6fb0",
+        "548a6deb6498a8df4cefb5c6a71b528d89f44d9ca1d295306f8d1ecad8cb1ff5"
+      ]
+    },
+    {
+      "query": "Multi-intent: Can I take leave for a serious health condition and also receive tuition assistance during the same semester?",
+      "relevant_doc_ids": [
+        "b7d896d4f21ff447d93ccf2d67dbed463c00ddebfc2ecb970fb6730263e71f14",
+        "b27100c20f410c423c648d67ad592d2b642bca91bae03c92d01a11fb838ed341"
+      ]
+    },
+    {
+      "query": "Ambiguous: 'time off for family' — which policies might apply?",
+      "relevant_doc_ids": [
+        "b7d896d4f21ff447d93ccf2d67dbed463c00ddebfc2ecb970fb6730263e71f14",
+        "21852eab0e0ea471a59dc30bee74866697285cb90687cf71d3975c3afb683266"
+      ]
+    },
+    {
+      "query": "Rephrased: Which procedure explains payroll reporting for tuition assistance?",
+      "relevant_doc_ids": [
+        "c2c47a16c0eb8b8d5dd6a12d608ca678a097e0e06ad482e12e60807788b67d00",
+        "80056fea768ffcbb153bb9b54735105e82179e3e2859d063f6afcf382b972ecb"
+      ]
+    },
+    {
+      "query": "Indirect: Who should I contact about student employment procedures?",
+      "relevant_doc_ids": [
+        "abcb81f6837788a297566c85615f3b0aa2a8a81d2240b731f1007375a8053c59",
+        "3c4184c2f3473261b5e32aeb446117bb23b03c6a6011d398daa665829870eb7a"
+      ]
+    }
+  ]
+}

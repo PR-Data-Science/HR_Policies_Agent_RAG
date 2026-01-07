@@ -1,5 +1,5 @@
 {
-  "c27c31d0-72ed-4a95-afc8-a01bed867ab4": {
+  "9f47da6d7f48f7c4d812e3d1aa4f020450a58bce4a9e3f5d79053ffe3c391a42": {
     "source": "HR-B-PO-01 Employee Tuition Affordability Program Policy.pdf",
     "page": 1,
     "chunk_index": 0,
@@ -7,55 +7,55 @@
     "total_chunks": 9,
     "text_length": 1751
   },
-  "6b977a37-5440-44e6-8b6e-e33a34558e2e": {
+  "031ef57576ad1ad9c8ea2820a1a6bc01edbf5fff5029b7f8688b6329b7c19399": {
     "source": "HR-B-PO-01 Employee Tuition Affordability Program Policy.pdf",
     "page": 2,
     "chunk_index": 0,
-    "chunk_size": 441,
+    "chunk_size": 400,
     "total_chunks": 9,
-    "text_length": 2015
+    "text_length": 1833
   },
-  "09a8f908-9a32-4da0-aa59-6dbb3acb15c5": {
+  "b27100c20f410c423c648d67ad592d2b642bca91bae03c92d01a11fb838ed341": {
     "source": "HR-B-PO-01 Employee Tuition Affordability Program Policy.pdf",
     "page": 2,
+    "chunk_index": 1,
+    "chunk_size": 101,
+    "total_chunks": 9,
+    "text_length": 455
+  },
+  "d702250ef754ef3539d67791aedd2c2003da22b8540dd04fc3038897e6d070b8": {
+    "source": "HR-B-PO-01 Employee Tuition Affordability Program Policy.pdf",
+    "page": 3,
+    "chunk_index": 0,
+    "chunk_size": 400,
+    "total_chunks": 9,
+    "text_length": 1638
+  },
+  "cc82bfb24e90e05a82f3332cd773279633cfbe9c4d18c5b8f8225f51b85d1025": {
+    "source": "HR-B-PO-01 Employee Tuition Affordability Program Policy.pdf",
+    "page": 3,
+    "chunk_index": 1,
+    "chunk_size": 87,
+    "total_chunks": 9,
+    "text_length": 303
+  },
+  "a1ec450899bbc8065bfcd1e04e466f96d64ac5cb7cbfaf5cb1d89fd08e18282f": {
+    "source": "HR-B-PO-01 Employee Tuition Affordability Program Policy.pdf",
+    "page": 4,
+    "chunk_index": 0,
+    "chunk_size": 400,
+    "total_chunks": 9,
+    "text_length": 1745
+  },
+  "638574c3b06cef3bd97261c637dfdc280e63f3472082bad9309d832884703eef": {
+    "source": "HR-B-PO-01 Employee Tuition Affordability Program Policy.pdf",
+    "page": 4,
     "chunk_index": 1,
     "chunk_size": 91,
     "total_chunks": 9,
-    "text_length": 425
+    "text_length": 428
   },
-  "1d67993d-6cd1-47a6-bb38-0da68d4f5c1c": {
-    "source": "HR-B-PO-01 Employee Tuition Affordability Program Policy.pdf",
-    "page": 3,
-    "chunk_index": 0,
-    "chunk_size": 427,
-    "total_chunks": 9,
-    "text_length": 1740
-  },
-  "8186a91c-2726-493c-91d2-5c71ab83d9ed": {
-    "source": "HR-B-PO-01 Employee Tuition Affordability Program Policy.pdf",
-    "page": 3,
-    "chunk_index": 1,
-    "chunk_size": 77,
-    "total_chunks": 9,
-    "text_length": 289
-  },
-  "fee36896-c150-4fba-8205-4161541b4d36": {
-    "source": "HR-B-PO-01 Employee Tuition Affordability Program Policy.pdf",
-    "page": 4,
-    "chunk_index": 0,
-    "chunk_size": 431,
-    "total_chunks": 9,
-    "text_length": 1910
-  },
-  "6a02625b-2dbe-4ed2-a46a-b5347c913b07": {
-    "source": "HR-B-PO-01 Employee Tuition Affordability Program Policy.pdf",
-    "page": 4,
-    "chunk_index": 1,
-    "chunk_size": 81,
-    "total_chunks": 9,
-    "text_length": 375
-  },
-  "6105d30d-c69f-4f89-b372-e46832d090a1": {
+  "95cd6994f4f293a8df3d8eb3314a0b509ed23f8e17a4e2de643f8ff83d36bc0e": {
     "source": "HR-B-PO-01 Employee Tuition Affordability Program Policy.pdf",
     "page": 5,
     "chunk_index": 0,
@@ -63,7 +63,7 @@
     "total_chunks": 9,
     "text_length": 1436
   },
-  "de64252f-d1d4-43bb-ac21-819cec442293": {
+  "30335a23c4b2a90755da7c412547b84ee661832db6ae2cbe940ba34a5f9bcc80": {
     "source": "HR-B-PO-01 Employee Tuition Affordability Program Policy.pdf",
     "page": 6,
     "chunk_index": 0,
@@ -71,7 +71,7 @@
     "total_chunks": 9,
     "text_length": 799
   },
-  "9264db41-6f0a-4c8e-8ef3-0e4b847b302e": {
+  "ddb25a17181db96eb1143aefdbb9e529287715b0c3178884d571c7fe15100515": {
     "source": "HR-B-PO-10 Employee Dependent Scholarship Policy.pdf",
     "page": 1,
     "chunk_index": 0,
@@ -79,7 +79,7 @@
     "total_chunks": 5,
     "text_length": 1089
   },
-  "7a760808-46cd-495e-aced-dac292080734": {
+  "84430c58892e969b3bb5b0666362647656c4d2998a60932bdc9a192482cef834": {
     "source": "HR-B-PO-10 Employee Dependent Scholarship Policy.pdf",
     "page": 2,
     "chunk_index": 0,
@@ -87,23 +87,23 @@
     "total_chunks": 5,
     "text_length": 1516
   },
-  "7a2d5e7f-17a3-43bf-8fff-558900230a0a": {
+  "760fcee143ada45380e6c9d1cbfab1f4d34481ff085c63fbb94f8167a308e311": {
     "source": "HR-B-PO-10 Employee Dependent Scholarship Policy.pdf",
     "page": 3,
     "chunk_index": 0,
-    "chunk_size": 446,
+    "chunk_size": 400,
     "total_chunks": 5,
-    "text_length": 2026
+    "text_length": 1832
   },
-  "944387e3-3738-4153-970e-12e4b6fe40d8": {
+  "852c6fa2bb83df25e4247629d551ccdab55b46787285afc06f66035e3900b3d2": {
     "source": "HR-B-PO-10 Employee Dependent Scholarship Policy.pdf",
     "page": 3,
     "chunk_index": 1,
-    "chunk_size": 96,
+    "chunk_size": 106,
     "total_chunks": 5,
-    "text_length": 403
+    "text_length": 454
   },
-  "3a33189c-da67-4dfd-a1c0-aba01cd823d7": {
+  "b6f63ecf4e1238751a68f9d90144c31a4430e78ce3ac7e8b68b0721b0a5959c7": {
     "source": "HR-B-PO-10 Employee Dependent Scholarship Policy.pdf",
     "page": 4,
     "chunk_index": 0,
@@ -111,111 +111,127 @@
     "total_chunks": 5,
     "text_length": 1593
   },
-  "7dc00dd1-6d48-4092-9c0a-4d33165d2718": {
+  "4af587c702fbeddabc353b9c27ee2b7681619161eef9bcf7341912cf8667d01e": {
     "source": "HR-B-PR-01 Employee Tuition Affordability Program Procedure.pdf",
     "page": 1,
     "chunk_index": 0,
     "chunk_size": 257,
-    "total_chunks": 4,
+    "total_chunks": 5,
     "text_length": 1163
   },
-  "4b25c95e-628b-46b2-836f-cf48f95611ac": {
+  "f81a51d580ae5b3e9d32caa4d22e5f776fd1f87d516347b81c1c89f188cd9497": {
     "source": "HR-B-PR-01 Employee Tuition Affordability Program Procedure.pdf",
     "page": 2,
     "chunk_index": 0,
     "chunk_size": 336,
-    "total_chunks": 4,
+    "total_chunks": 5,
     "text_length": 1537
   },
-  "809962a5-4455-4170-896f-f405a8b9567f": {
+  "8d13b21900637b7cd5ca9d2169eecdf5c234140a985976e52034980fd0ff1836": {
     "source": "HR-B-PR-01 Employee Tuition Affordability Program Procedure.pdf",
     "page": 3,
     "chunk_index": 0,
     "chunk_size": 390,
-    "total_chunks": 4,
+    "total_chunks": 5,
     "text_length": 1732
   },
-  "ed7457c7-74fc-4658-bf3c-e4f7ae3d6e68": {
+  "c2c47a16c0eb8b8d5dd6a12d608ca678a097e0e06ad482e12e60807788b67d00": {
+    "source": "HR-B-PR-01 Employee Tuition Affordability Program Procedure.pdf",
+    "page": 3,
+    "chunk_index": 1,
+    "chunk_size": 50,
+    "total_chunks": 5,
+    "text_length": 240
+  },
+  "80056fea768ffcbb153bb9b54735105e82179e3e2859d063f6afcf382b972ecb": {
     "source": "HR-B-PR-01 Employee Tuition Affordability Program Procedure.pdf",
     "page": 4,
     "chunk_index": 0,
     "chunk_size": 295,
-    "total_chunks": 4,
+    "total_chunks": 5,
     "text_length": 1193
   },
-  "b03ce03c-fb33-45dd-b467-f2544780e041": {
+  "19a80b6d022bff6281be917f2247ca3a8c976d45c6cfa8032f85ddb890e8cfa1": {
     "source": "HR-E-PO-11 Student Employment Policy.pdf",
     "page": 1,
     "chunk_index": 0,
     "chunk_size": 305,
-    "total_chunks": 9,
+    "total_chunks": 10,
     "text_length": 1411
   },
-  "b04848f6-7f05-4f28-ae80-744584bee44f": {
+  "41909c1838e6e46bc2d88b926fabf4700abc91f74eb7a828d89702098ff2b87d": {
     "source": "HR-E-PO-11 Student Employment Policy.pdf",
     "page": 2,
     "chunk_index": 0,
     "chunk_size": 382,
-    "total_chunks": 9,
+    "total_chunks": 10,
     "text_length": 1667
   },
-  "b83d0bf6-7f81-427c-8f6c-a0b3987c15ab": {
+  "c67f917a126494e5d0e538fbc2027ab5904d2109a463e78bb0d35eee25df5e4a": {
+    "source": "HR-E-PO-11 Student Employment Policy.pdf",
+    "page": 2,
+    "chunk_index": 1,
+    "chunk_size": 42,
+    "total_chunks": 10,
+    "text_length": 198
+  },
+  "a6bdd6d2d5e78c94f0005f6a2ac6c890458aebe5204f8cdd627b1a18be496243": {
     "source": "HR-E-PO-11 Student Employment Policy.pdf",
     "page": 3,
     "chunk_index": 0,
-    "chunk_size": 440,
-    "total_chunks": 9,
-    "text_length": 1905
+    "chunk_size": 400,
+    "total_chunks": 10,
+    "text_length": 1819
   },
-  "02a56c6a-e553-4772-bff7-c96a6025b7cc": {
+  "572625be7ad6b48bfd209e1b8872a7e58d7385d797f0a33809627e5dc5b5824e": {
     "source": "HR-E-PO-11 Student Employment Policy.pdf",
     "page": 3,
     "chunk_index": 1,
-    "chunk_size": 90,
-    "total_chunks": 9,
-    "text_length": 297
+    "chunk_size": 100,
+    "total_chunks": 10,
+    "text_length": 346
   },
-  "4bc9161c-5a32-4b5f-b205-e38b35bb857b": {
+  "86d5852fdd94fd41309e7e53a05eaff0d7c999050fd14cc4b5fe3bb82b982525": {
     "source": "HR-E-PO-11 Student Employment Policy.pdf",
     "page": 4,
     "chunk_index": 0,
-    "chunk_size": 468,
-    "total_chunks": 9,
-    "text_length": 2188
+    "chunk_size": 400,
+    "total_chunks": 10,
+    "text_length": 1843
   },
-  "27dda176-4cba-40a5-971f-eee40a3add76": {
+  "76c41175aace3d562f774eba7c2bee5603b4cd135c827bb483c1a199071b08c2": {
     "source": "HR-E-PO-11 Student Employment Policy.pdf",
     "page": 4,
     "chunk_index": 1,
-    "chunk_size": 118,
-    "total_chunks": 9,
-    "text_length": 622
+    "chunk_size": 128,
+    "total_chunks": 10,
+    "text_length": 673
   },
-  "31529877-0743-4132-8d6f-882ff2b09a51": {
+  "af41f5b34c739b556d5166e57a97fe76f6910193f959d04e89ec0ca6853068f9": {
     "source": "HR-E-PO-11 Student Employment Policy.pdf",
     "page": 5,
     "chunk_index": 0,
-    "chunk_size": 437,
-    "total_chunks": 9,
-    "text_length": 1867
+    "chunk_size": 400,
+    "total_chunks": 10,
+    "text_length": 1723
   },
-  "b3508c1a-f81b-4558-90d6-0271d4d2191c": {
+  "e5e09970387018f3718832e4c83af6c5c003f5803b9130832012c72a3258763d": {
     "source": "HR-E-PO-11 Student Employment Policy.pdf",
     "page": 5,
     "chunk_index": 1,
-    "chunk_size": 87,
-    "total_chunks": 9,
-    "text_length": 366
+    "chunk_size": 97,
+    "total_chunks": 10,
+    "text_length": 403
   },
-  "21f3a08f-05b3-4178-88c9-f3b4ae267bce": {
+  "abcb81f6837788a297566c85615f3b0aa2a8a81d2240b731f1007375a8053c59": {
     "source": "HR-E-PO-11 Student Employment Policy.pdf",
     "page": 6,
     "chunk_index": 0,
     "chunk_size": 133,
-    "total_chunks": 9,
+    "total_chunks": 10,
     "text_length": 548
   },
-  "dfbe1f23-2417-4ba6-a238-f677f5ca9e11": {
+  "3aaee164d7ff5ae249243e7e9adcff932b03ea888b09c31ff94c665c7e0e1be6": {
     "source": "HR-E-PO-18 MavTemp Temporary Employment Services Policy.pdf",
     "page": 1,
     "chunk_index": 0,
@@ -223,7 +239,7 @@
     "total_chunks": 2,
     "text_length": 1363
   },
-  "e4f7e6e6-59b7-4de8-9681-1ab78544bfa6": {
+  "886a28dcbae29e7eee4d6ce93645421eb2b81aec279d5c06f81451e2dcdaf95e": {
     "source": "HR-E-PO-18 MavTemp Temporary Employment Services Policy.pdf",
     "page": 2,
     "chunk_index": 0,
@@ -231,7 +247,7 @@
     "total_chunks": 2,
     "text_length": 640
   },
-  "95fc1175-6839-4dbe-8442-c1c8040cebc8": {
+  "20de920d62345652c739aced987a393acddea91d0d31fc98bfdf2ba471199df9": {
     "source": "HR-E-PR-21 Student Employment Procedure.pdf",
     "page": 1,
     "chunk_index": 0,
@@ -239,7 +255,7 @@
     "total_chunks": 10,
     "text_length": 1073
   },
-  "a7f9e385-d4aa-45e7-8a3f-4d096a1ad8d5": {
+  "11af08041749e067c35c7b265e254bdce4268a11867f46003e8da9198e2525d0": {
     "source": "HR-E-PR-21 Student Employment Procedure.pdf",
     "page": 2,
     "chunk_index": 0,
@@ -247,23 +263,23 @@
     "total_chunks": 10,
     "text_length": 1776
   },
-  "a8cef204-e84a-406d-913a-17bb8bb200c0": {
+  "de6fbc5081c50991cbd97d5473858aec7122dd3490b5bb2d8a26d3dea3df9c2d": {
     "source": "HR-E-PR-21 Student Employment Procedure.pdf",
     "page": 3,
     "chunk_index": 0,
-    "chunk_size": 434,
+    "chunk_size": 400,
     "total_chunks": 10,
-    "text_length": 1996
+    "text_length": 1839
   },
-  "9ab2a4e3-f9ce-473e-b69c-8cf026de2233": {
+  "d9d455b4f12cc31ba8953e29da511d5642f832efafbefc4f06ade887712b0a68": {
     "source": "HR-E-PR-21 Student Employment Procedure.pdf",
     "page": 3,
     "chunk_index": 1,
-    "chunk_size": 84,
+    "chunk_size": 94,
     "total_chunks": 10,
-    "text_length": 363
+    "text_length": 409
   },
-  "a3501286-b44c-4f56-a21f-d4573766a30c": {
+  "0acc55c47deaf6c5dca3a25f93297cf83d6ae11b0bd9bc678d5d365962bbcde5": {
     "source": "HR-E-PR-21 Student Employment Procedure.pdf",
     "page": 4,
     "chunk_index": 0,
@@ -271,7 +287,7 @@
     "total_chunks": 10,
     "text_length": 1342
   },
-  "37f268c2-a36d-4ea0-8ab7-fbb72236dc22": {
+  "4b723719f218231f614c7fb4fea75cc08075f20c4b74e17ba1d7f8ad215eb4a5": {
     "source": "HR-E-PR-21 Student Employment Procedure.pdf",
     "page": 5,
     "chunk_index": 0,
@@ -279,23 +295,23 @@
     "total_chunks": 10,
     "text_length": 1887
   },
-  "26a17dce-dc0c-4a05-b6f7-0e4a16690da8": {
+  "3c4184c2f3473261b5e32aeb446117bb23b03c6a6011d398daa665829870eb7a": {
     "source": "HR-E-PR-21 Student Employment Procedure.pdf",
     "page": 6,
     "chunk_index": 0,
-    "chunk_size": 401,
+    "chunk_size": 400,
     "total_chunks": 10,
-    "text_length": 1912
+    "text_length": 1911
   },
-  "c3b9444f-d6aa-4d0d-b9a9-739e0457aa44": {
+  "8d57ca1682fa92aaa18d23984633908c829330b4c6120d70bae3e23784d2885a": {
     "source": "HR-E-PR-21 Student Employment Procedure.pdf",
     "page": 6,
     "chunk_index": 1,
-    "chunk_size": 51,
+    "chunk_size": 61,
     "total_chunks": 10,
-    "text_length": 252
+    "text_length": 302
   },
-  "0bd1c15c-ad35-48ea-8adb-6af6cfb1f4b2": {
+  "fe0131ae6d0982e37c13c4ee4a1a3af84c657ccb805e18e36f70831cc3a21037": {
     "source": "HR-E-PR-21 Student Employment Procedure.pdf",
     "page": 7,
     "chunk_index": 0,
@@ -303,7 +319,7 @@
     "total_chunks": 10,
     "text_length": 1353
   },
-  "e2e97c35-121d-43c2-857c-81df3812d2fb": {
+  "6c3bf82c7981fa9b186332ae3c63482235e9f29712e614bda70c521915b0f347": {
     "source": "HR-E-PR-21 Student Employment Procedure.pdf",
     "page": 8,
     "chunk_index": 0,
@@ -311,7 +327,7 @@
     "total_chunks": 10,
     "text_length": 254
   },
-  "b8cd8f23-0100-4102-99d5-2318fdc54c74": {
+  "548a6deb6498a8df4cefb5c6a71b528d89f44d9ca1d295306f8d1ecad8cb1ff5": {
     "source": "HR-E-PR-37 MavTemp Temporary Employment Services Procedure.pdf",
     "page": 1,
     "chunk_index": 0,
@@ -319,7 +335,7 @@
     "total_chunks": 5,
     "text_length": 1255
   },
-  "9d183556-3cd7-46c5-a7c0-4da347531348": {
+  "744724e2758ba07bbdea1c05fc498f64ca55144b595db33b5e893439b349f0cb": {
     "source": "HR-E-PR-37 MavTemp Temporary Employment Services Procedure.pdf",
     "page": 2,
     "chunk_index": 0,
@@ -327,23 +343,23 @@
     "total_chunks": 5,
     "text_length": 1763
   },
-  "972d6103-42ef-4e4f-b9e9-d15cdd03d43c": {
+  "fc2165b20a669ce6b7d78b3feb9556b0e9a12f2dc25f412e4f00e9074a81d735": {
     "source": "HR-E-PR-37 MavTemp Temporary Employment Services Procedure.pdf",
     "page": 3,
     "chunk_index": 0,
-    "chunk_size": 436,
+    "chunk_size": 400,
     "total_chunks": 5,
-    "text_length": 2149
+    "text_length": 1960
   },
-  "9e39cfa5-4b23-42b1-8991-9c1b1b771085": {
+  "eca5eec3b4eda2fcee252a02ae654c9d174ead643202786b4ac138b8e13c6fb0": {
     "source": "HR-E-PR-37 MavTemp Temporary Employment Services Procedure.pdf",
     "page": 3,
     "chunk_index": 1,
-    "chunk_size": 86,
+    "chunk_size": 96,
     "total_chunks": 5,
-    "text_length": 446
+    "text_length": 495
   },
-  "4aedc693-d68d-494c-ac9a-5a640b6ba065": {
+  "9d4a0ad3343d959a6b808bb9e619494fe05d5eee1b26579cf3f3f15f42412e88": {
     "source": "HR-E-PR-37 MavTemp Temporary Employment Services Procedure.pdf",
     "page": 4,
     "chunk_index": 0,
@@ -351,183 +367,199 @@
     "total_chunks": 5,
     "text_length": 1106
   },
-  "069c12ef-ad21-4884-bb75-6a3c07ee257a": {
+  "b7d896d4f21ff447d93ccf2d67dbed463c00ddebfc2ecb970fb6730263e71f14": {
     "source": "HR-LA-PO-01 Family & Medical Leave Act Policy.pdf",
     "page": 1,
     "chunk_index": 0,
     "chunk_size": 310,
-    "total_chunks": 22,
+    "total_chunks": 24,
     "text_length": 1275
   },
-  "b2dd5b81-1f2b-406f-9890-f78627f43b9c": {
+  "21852eab0e0ea471a59dc30bee74866697285cb90687cf71d3975c3afb683266": {
     "source": "HR-LA-PO-01 Family & Medical Leave Act Policy.pdf",
     "page": 2,
     "chunk_index": 0,
     "chunk_size": 386,
-    "total_chunks": 22,
+    "total_chunks": 24,
     "text_length": 1698
   },
-  "91c19392-e736-48a4-ae61-019c5b188558": {
+  "e6d222e2cf28d71fb2f3a750e1e290428cc8dceb265135798fd07360fa4271d7": {
+    "source": "HR-LA-PO-01 Family & Medical Leave Act Policy.pdf",
+    "page": 2,
+    "chunk_index": 1,
+    "chunk_size": 46,
+    "total_chunks": 24,
+    "text_length": 178
+  },
+  "bfa928d08b35688d9ebae95e2ad9d4dc02949ea2a4393f740ca6432fe8b9b11f": {
     "source": "HR-LA-PO-01 Family & Medical Leave Act Policy.pdf",
     "page": 3,
     "chunk_index": 0,
-    "chunk_size": 423,
-    "total_chunks": 22,
-    "text_length": 1788
+    "chunk_size": 400,
+    "total_chunks": 24,
+    "text_length": 1687
   },
-  "9f0659b5-55cd-4239-9a46-d30887800d51": {
+  "b677960965fb138898dead2c23a29014c777d1aaf9814bb80aacacafc795b17e": {
     "source": "HR-LA-PO-01 Family & Medical Leave Act Policy.pdf",
     "page": 3,
     "chunk_index": 1,
-    "chunk_size": 73,
-    "total_chunks": 22,
-    "text_length": 338
+    "chunk_size": 83,
+    "total_chunks": 24,
+    "text_length": 380
   },
-  "571438a2-b8d4-439e-924e-c0a8aa705fce": {
+  "aff0aa3474b8ae48e20d9dd07b34520dcfc9762ee5099bc99302b77fea45f380": {
     "source": "HR-LA-PO-01 Family & Medical Leave Act Policy.pdf",
     "page": 4,
     "chunk_index": 0,
-    "chunk_size": 425,
-    "total_chunks": 22,
-    "text_length": 2009
+    "chunk_size": 400,
+    "total_chunks": 24,
+    "text_length": 1888
   },
-  "a3a40d52-0f77-4289-a5dd-f6ec592b8400": {
+  "5dbfcef59df4dd9c68f95eba1ed82ee824a6095db65edf17b26a3a8a5124a051": {
     "source": "HR-LA-PO-01 Family & Medical Leave Act Policy.pdf",
     "page": 4,
     "chunk_index": 1,
-    "chunk_size": 75,
-    "total_chunks": 22,
-    "text_length": 353
+    "chunk_size": 85,
+    "total_chunks": 24,
+    "text_length": 399
   },
-  "f77fbc61-6781-412d-8927-592f7df4da59": {
+  "c6e375ca4cd38b70d0d14b3cbefadbc5df5bd2875853cb172f43ff35038a0b26": {
     "source": "HR-LA-PO-01 Family & Medical Leave Act Policy.pdf",
     "page": 5,
     "chunk_index": 0,
     "chunk_size": 383,
-    "total_chunks": 22,
+    "total_chunks": 24,
     "text_length": 1713
   },
-  "ecea81d1-4517-4142-af47-74f835a1a4c5": {
+  "9f59a74c18db3c500dd74f5bc798c4aa55d7e09ed12ea72e7bce17b321aae71f": {
+    "source": "HR-LA-PO-01 Family & Medical Leave Act Policy.pdf",
+    "page": 5,
+    "chunk_index": 1,
+    "chunk_size": 43,
+    "total_chunks": 24,
+    "text_length": 189
+  },
+  "4f1f8698c14827f9e823131df7d8f9b5128856cfba31f335e4354990fbb08c6e": {
     "source": "HR-LA-PO-01 Family & Medical Leave Act Policy.pdf",
     "page": 6,
     "chunk_index": 0,
-    "chunk_size": 470,
-    "total_chunks": 22,
-    "text_length": 2210
+    "chunk_size": 400,
+    "total_chunks": 24,
+    "text_length": 1870
   },
-  "c2a931eb-deee-4073-8962-71250a059548": {
+  "d1475bbb521c01480d7d1e4dccacb541c1a09c70170bdbb7998af36e31768ee0": {
     "source": "HR-LA-PO-01 Family & Medical Leave Act Policy.pdf",
     "page": 6,
     "chunk_index": 1,
-    "chunk_size": 120,
-    "total_chunks": 22,
-    "text_length": 560
+    "chunk_size": 130,
+    "total_chunks": 24,
+    "text_length": 610
   },
-  "e5c78d94-98ff-4e0b-b4f4-e3727b62fcd4": {
+  "f8087677725cb3e9ab694a48790cb5624a4f73d056657eb007e0940f4c7f2a47": {
     "source": "HR-LA-PO-01 Family & Medical Leave Act Policy.pdf",
     "page": 7,
     "chunk_index": 0,
-    "chunk_size": 477,
-    "total_chunks": 22,
-    "text_length": 2213
+    "chunk_size": 400,
+    "total_chunks": 24,
+    "text_length": 1824
   },
-  "4b0eac80-abca-40cc-ac42-9e22ea06c927": {
+  "6d99c6464e57addb8fdf0db8f29cfe72d1e3f652bdc320f9a9434c13c8c42279": {
     "source": "HR-LA-PO-01 Family & Medical Leave Act Policy.pdf",
     "page": 7,
     "chunk_index": 1,
-    "chunk_size": 127,
-    "total_chunks": 22,
-    "text_length": 599
+    "chunk_size": 137,
+    "total_chunks": 24,
+    "text_length": 626
   },
-  "b58d3a46-4ebe-4c14-b558-7534b8678ce5": {
+  "f05693a1a9a67a0c360d1bf3c1c1a80b8b85315084e3d26c8dc8d95f2d193256": {
     "source": "HR-LA-PO-01 Family & Medical Leave Act Policy.pdf",
     "page": 8,
     "chunk_index": 0,
-    "chunk_size": 497,
-    "total_chunks": 22,
-    "text_length": 2338
+    "chunk_size": 400,
+    "total_chunks": 24,
+    "text_length": 1868
   },
-  "7197a1ef-5dec-432f-ba9c-3a807f820490": {
+  "5a9043fec919e407dfb7603c0e01fce76acc6a812ec491df15f794e32256515b": {
     "source": "HR-LA-PO-01 Family & Medical Leave Act Policy.pdf",
     "page": 8,
     "chunk_index": 1,
-    "chunk_size": 147,
-    "total_chunks": 22,
-    "text_length": 721
+    "chunk_size": 157,
+    "total_chunks": 24,
+    "text_length": 769
   },
-  "5c8c42ac-1da6-4873-a821-b46de175a8d9": {
+  "6b2c2fa920b29b04ca4a833fd51ec5a12591cbdf04c4cacaa81289202d342672": {
     "source": "HR-LA-PO-01 Family & Medical Leave Act Policy.pdf",
     "page": 9,
     "chunk_index": 0,
-    "chunk_size": 500,
-    "total_chunks": 22,
-    "text_length": 2226
+    "chunk_size": 400,
+    "total_chunks": 24,
+    "text_length": 1712
   },
-  "023cb612-6ca2-40d4-bb90-1dc6625cf09b": {
+  "76656d3e2e1384d117daeb8db880bfa2350ed9f9d289a17e634cddcaf503b34f": {
     "source": "HR-LA-PO-01 Family & Medical Leave Act Policy.pdf",
     "page": 9,
     "chunk_index": 1,
-    "chunk_size": 264,
-    "total_chunks": 22,
-    "text_length": 1310
+    "chunk_size": 274,
+    "total_chunks": 24,
+    "text_length": 1364
   },
-  "0236ea3a-3c75-4be9-9fa8-79d4a422ba88": {
+  "fabb18b316f93fcdf98840cdce93116f2413cb4c6d50a5970ed77471b3cda394": {
     "source": "HR-LA-PO-01 Family & Medical Leave Act Policy.pdf",
     "page": 10,
     "chunk_index": 0,
-    "chunk_size": 500,
-    "total_chunks": 22,
-    "text_length": 2406
+    "chunk_size": 400,
+    "total_chunks": 24,
+    "text_length": 1871
   },
-  "1d01a66c-df04-4e97-bf8f-f04f8ee4735a": {
+  "746d775811ba4d2925a1ee7e9f46deb0f5bbecfe5a4007faf8438fbc9027c348": {
     "source": "HR-LA-PO-01 Family & Medical Leave Act Policy.pdf",
     "page": 10,
     "chunk_index": 1,
-    "chunk_size": 290,
-    "total_chunks": 22,
-    "text_length": 1458
+    "chunk_size": 300,
+    "total_chunks": 24,
+    "text_length": 1513
   },
-  "ee2e77c4-47d0-449d-b56d-20339894376f": {
+  "46a1fa51cfabc0639ed9e0680fb9989c7bbb9968dca8d08f4cddba8caf276ad3": {
     "source": "HR-LA-PO-01 Family & Medical Leave Act Policy.pdf",
     "page": 11,
     "chunk_index": 0,
-    "chunk_size": 499,
-    "total_chunks": 22,
-    "text_length": 2391
+    "chunk_size": 400,
+    "total_chunks": 24,
+    "text_length": 1942
   },
-  "cda4ea40-c358-45c6-ab9f-dec622a437b3": {
+  "4f3c81b0b4c9e4d3254ed1454d4e544f226c210bf9bae3bbb72a7b3411deb98c": {
     "source": "HR-LA-PO-01 Family & Medical Leave Act Policy.pdf",
     "page": 11,
     "chunk_index": 1,
-    "chunk_size": 149,
-    "total_chunks": 22,
-    "text_length": 682
+    "chunk_size": 159,
+    "total_chunks": 24,
+    "text_length": 741
   },
-  "86da0630-86e5-4a02-91d1-09a58fd9a005": {
+  "3192c792cff4e5f5689d2b7a1bfe916a50923d639cc66988e647af7f4211cd2e": {
     "source": "HR-LA-PO-01 Family & Medical Leave Act Policy.pdf",
     "page": 12,
     "chunk_index": 0,
-    "chunk_size": 439,
-    "total_chunks": 22,
-    "text_length": 1907
+    "chunk_size": 400,
+    "total_chunks": 24,
+    "text_length": 1761
   },
-  "37e62be0-8c28-4244-bd0b-20cc7394d2bc": {
+  "27baa88f85d9743988c7c5047d5797042cec4cb7013322f4c8177b611187c90e": {
     "source": "HR-LA-PO-01 Family & Medical Leave Act Policy.pdf",
     "page": 12,
     "chunk_index": 1,
-    "chunk_size": 89,
-    "total_chunks": 22,
-    "text_length": 348
+    "chunk_size": 99,
+    "total_chunks": 24,
+    "text_length": 377
   },
-  "786f6883-aa68-4892-9c00-501c481b74ee": {
+  "dd75a91c922061dfcce83bed3771739f3819374de8ec8eeb6e09ad3c099b9703": {
     "source": "HR-LA-PO-01 Family & Medical Leave Act Policy.pdf",
     "page": 13,
     "chunk_index": 0,
     "chunk_size": 173,
-    "total_chunks": 22,
+    "total_chunks": 24,
     "text_length": 677
   },
-  "2790ebd6-4e03-449b-9e8c-e1e7460babc0": {
+  "af656a9bd8da85a8021d5a7df7b36017eeedf9e7a7f863de41e6e551ac72321f": {
     "source": "HR-LA-PO-06 Family Leave Pool Policy.pdf",
     "page": 1,
     "chunk_index": 0,
@@ -535,39 +567,39 @@
     "total_chunks": 6,
     "text_length": 1160
   },
-  "0d71e24b-9a10-4898-b716-33b3f4f3ad75": {
+  "c82dc53caff95ffa7779f61a7562a511db180c8280c766b111f388b9fa327a2a": {
     "source": "HR-LA-PO-06 Family Leave Pool Policy.pdf",
     "page": 2,
     "chunk_index": 0,
-    "chunk_size": 416,
+    "chunk_size": 400,
     "total_chunks": 6,
-    "text_length": 1870
+    "text_length": 1818
   },
-  "3fc30f60-945c-4b5e-b0e0-58525d13bc27": {
+  "f8d390f639194d1cb9919edf89edcacf41c01e0c52e69b43e14a506a75901d5c": {
     "source": "HR-LA-PO-06 Family Leave Pool Policy.pdf",
     "page": 2,
     "chunk_index": 1,
-    "chunk_size": 66,
+    "chunk_size": 76,
     "total_chunks": 6,
-    "text_length": 273
+    "text_length": 321
   },
-  "9977c96e-6dc8-4e3b-b301-a0687edbe319": {
+  "5717e517bbf92d46a8187bd300a175757fb7844e6a80106c82cca3ad3c80f9ba": {
     "source": "HR-LA-PO-06 Family Leave Pool Policy.pdf",
     "page": 3,
     "chunk_index": 0,
-    "chunk_size": 407,
+    "chunk_size": 400,
     "total_chunks": 6,
-    "text_length": 1919
+    "text_length": 1888
   },
-  "0295c606-f6d0-4aa7-93cb-2cafd09904f3": {
+  "61042531a789efcf416c8747ac2aeaab32353c4d4c0ddb20480d062e57ba329f": {
     "source": "HR-LA-PO-06 Family Leave Pool Policy.pdf",
     "page": 3,
     "chunk_index": 1,
-    "chunk_size": 57,
+    "chunk_size": 67,
     "total_chunks": 6,
-    "text_length": 225
+    "text_length": 274
   },
-  "5cb1ec7b-e245-4e4c-9ed1-229561c96dc0": {
+  "4dea25f81c929586e0459c72c3c3bb6af34207fdba77af3625687d8b63a17a00": {
     "source": "HR-LA-PO-06 Family Leave Pool Policy.pdf",
     "page": 4,
     "chunk_index": 0,
@@ -575,7 +607,7 @@
     "total_chunks": 6,
     "text_length": 422
   },
-  "2d5f9bd8-cb87-4485-ab8d-390a0a5cf762": {
+  "ddab3e7110bc5759791d1c95d044c561507a1e01264b69f58385813ff3e739ac": {
     "source": "HR-LA-PR-04 Family & Medical Leave Act Procedure.pdf",
     "page": 1,
     "chunk_index": 0,
@@ -583,71 +615,71 @@
     "total_chunks": 11,
     "text_length": 1089
   },
-  "06cc3c63-0354-4283-b35f-f96c88d6c0c2": {
+  "9d276df7c8474c2c7244b3e66d56e5c95f8801d1f38031c02dbab07b6a83a8cd": {
     "source": "HR-LA-PR-04 Family & Medical Leave Act Procedure.pdf",
     "page": 2,
     "chunk_index": 0,
-    "chunk_size": 500,
+    "chunk_size": 400,
     "total_chunks": 11,
-    "text_length": 2225
+    "text_length": 1792
   },
-  "33801588-589c-45ef-b5be-0d0f407e4d60": {
+  "97eb5cf584521010823d27545dc6efc2de3c5fa34a23ce2941efac30e1037267": {
     "source": "HR-LA-PR-04 Family & Medical Leave Act Procedure.pdf",
     "page": 2,
     "chunk_index": 1,
-    "chunk_size": 156,
+    "chunk_size": 166,
     "total_chunks": 11,
-    "text_length": 715
+    "text_length": 750
   },
-  "df12f04c-d7d5-4622-9bd9-d5d416bc8d67": {
+  "34919524aa79f5f1043f9767625f9199f7301e36dbab7c97ace29c7195743095": {
     "source": "HR-LA-PR-04 Family & Medical Leave Act Procedure.pdf",
     "page": 3,
     "chunk_index": 0,
-    "chunk_size": 500,
+    "chunk_size": 400,
     "total_chunks": 11,
-    "text_length": 2331
+    "text_length": 1854
   },
-  "764c1c85-d077-4e88-9203-ec40368095b9": {
+  "d29d0ea8c04959efac50e4d7671f9660a24867a25370f94dbe51f5cfc1e06beb": {
     "source": "HR-LA-PR-04 Family & Medical Leave Act Procedure.pdf",
     "page": 3,
     "chunk_index": 1,
-    "chunk_size": 182,
+    "chunk_size": 192,
     "total_chunks": 11,
-    "text_length": 871
+    "text_length": 909
   },
-  "d47ffdd1-4033-4fe1-a68d-0746e9ae8394": {
+  "812438ccb0a430722b6d275aad6288f28deccbdb43ff15f09d53f9eef1387bf3": {
     "source": "HR-LA-PR-04 Family & Medical Leave Act Procedure.pdf",
     "page": 4,
     "chunk_index": 0,
-    "chunk_size": 444,
+    "chunk_size": 400,
     "total_chunks": 11,
-    "text_length": 2161
+    "text_length": 1948
   },
-  "c6bb95d5-5a35-4385-b205-03ee015f94c1": {
+  "fb0212b455f8e9a89808eaa8ec332971cd4a7f0da57d741a80553e41503b2e90": {
     "source": "HR-LA-PR-04 Family & Medical Leave Act Procedure.pdf",
     "page": 4,
     "chunk_index": 1,
-    "chunk_size": 94,
+    "chunk_size": 104,
     "total_chunks": 11,
-    "text_length": 455
+    "text_length": 502
   },
-  "9727d000-1825-4b7a-8a85-c0fda96db4ea": {
+  "e9aa5ef1e17c01c0b051cc29dd0677922b9f6fd3a7fa50dcd36e69f5b8bdd6ac": {
     "source": "HR-LA-PR-04 Family & Medical Leave Act Procedure.pdf",
     "page": 5,
     "chunk_index": 0,
-    "chunk_size": 419,
+    "chunk_size": 400,
     "total_chunks": 11,
-    "text_length": 2048
+    "text_length": 1953
   },
-  "4abac516-1226-434b-ab43-a5f7178f7125": {
+  "1a2d825bb366dd83f82191d5effd57629439d423145f339d9cbd05cc19d787f0": {
     "source": "HR-LA-PR-04 Family & Medical Leave Act Procedure.pdf",
     "page": 5,
     "chunk_index": 1,
-    "chunk_size": 69,
+    "chunk_size": 79,
     "total_chunks": 11,
-    "text_length": 371
+    "text_length": 415
   },
-  "661eded8-7727-460f-8a30-42318cb118ae": {
+  "b70fe29bd224f462a90ecc0dfd8735b0e3b4b8490249da6a46f6ea816f475a4e": {
     "source": "HR-LA-PR-04 Family & Medical Leave Act Procedure.pdf",
     "page": 6,
     "chunk_index": 0,
@@ -655,7 +687,7 @@
     "total_chunks": 11,
     "text_length": 1505
   },
-  "55ea4cb8-0be0-4d7e-8c14-baaac98cb028": {
+  "89c83109a2b4b52d49f91ae25278109f5e0d438da7cd61cb7d632bff709515f3": {
     "source": "HR-LA-PR-04 Family & Medical Leave Act Procedure.pdf",
     "page": 7,
     "chunk_index": 0,
@@ -663,7 +695,7 @@
     "total_chunks": 11,
     "text_length": 190
   },
-  "d18a66c6-c3db-403b-9441-815611dfede4": {
+  "efd332cfbea25c1721f8a3425f1f36a05f74d3ca86d24d6806403c4de4ccf031": {
     "source": "HR-SPE-PO-01 Annual Performance Evaluations Policy.pdf",
     "page": 1,
     "chunk_index": 0,
@@ -671,7 +703,7 @@
     "total_chunks": 3,
     "text_length": 1314
   },
-  "ea60d383-973a-4a8e-b9b4-00f69735acf9": {
+  "6b9505f9b19e23524c786bed1a559c8aa4bd323a0228f01566d2fc32202c3168": {
     "source": "HR-SPE-PO-01 Annual Performance Evaluations Policy.pdf",
     "page": 2,
     "chunk_index": 0,
@@ -679,7 +711,7 @@
     "total_chunks": 3,
     "text_length": 1867
   },
-  "eae060ba-0b54-4716-95e7-d07c883829b5": {
+  "b348846a4e5c9ce0cf21ed75aaae2f00b72811c145dd17b480cbc94ed34e9007": {
     "source": "HR-SPE-PO-01 Annual Performance Evaluations Policy.pdf",
     "page": 3,
     "chunk_index": 0,
@@ -687,7 +719,7 @@
     "total_chunks": 3,
     "text_length": 654
   },
-  "945648d6-2e46-45f9-b785-aa9e6d8e7898": {
+  "7037185e52f154d14e14187b66986c824e43c7d6589a85f9bafc5de1361110bc": {
     "source": "HR-SPE-PR-01 Staff Performance Management Review Procedure.pdf",
     "page": 1,
     "chunk_index": 0,
@@ -695,23 +727,23 @@
     "total_chunks": 5,
     "text_length": 1136
   },
-  "fc6aca0a-8adc-4ce7-a0fb-f22876d4aefc": {
+  "15450ff899fcf1b9ec51eadd4d4fb06b045fc6f88d2306ea95d2121edd49fb9b": {
     "source": "HR-SPE-PR-01 Staff Performance Management Review Procedure.pdf",
     "page": 2,
     "chunk_index": 0,
-    "chunk_size": 418,
+    "chunk_size": 400,
     "total_chunks": 5,
-    "text_length": 2190
+    "text_length": 2080
   },
-  "0124970d-7c63-4701-9ed4-361f956f3673": {
+  "fefa36e805878993986361272bfe54c02f7ad7931e935c2a44be8e002ed4f99f": {
     "source": "HR-SPE-PR-01 Staff Performance Management Review Procedure.pdf",
     "page": 2,
     "chunk_index": 1,
-    "chunk_size": 68,
+    "chunk_size": 78,
     "total_chunks": 5,
-    "text_length": 368
+    "text_length": 425
   },
-  "9ed9f9ef-bfdb-4ab4-b302-4f6b77c93efc": {
+  "1e1a9521c6ec50e02655290ae55d0a33c90f0278e74b1d171c15b5f1b95bf1f5": {
     "source": "HR-SPE-PR-01 Staff Performance Management Review Procedure.pdf",
     "page": 3,
     "chunk_index": 0,
@@ -719,7 +751,7 @@
     "total_chunks": 5,
     "text_length": 1321
   },
-  "9b6f5f87-5ecb-4af2-bf09-7c30afbe0414": {
+  "d1dffe3f3b5d4c48cd4ce3f4c64e13b13a5e0a8da4302f951e941f9713fb1fca": {
     "source": "HR-SPE-PR-01 Staff Performance Management Review Procedure.pdf",
     "page": 4,
     "chunk_index": 0,

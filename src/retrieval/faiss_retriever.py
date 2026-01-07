@@ -206,11 +206,21 @@ def retrieve_top_k(
     documents: List[Dict[str, Any]],
     metadata: Dict[str, Any],
     k: int = 5,
+    metadata_filter: Dict[str, Any] | None = None,
 ) -> List[Dict[str, Any]]:
     """Retrieve top-k documents for `query` using FAISS.
+        Returns a ranked list of dicts. Each item is normalized for evaluation and
+        includes these stable keys (kept for backward compatibility):
+            - `rank`: 1-based rank
+            - `distance`: raw faiss distance/similarity
+            - `document_id`: original document id (legacy key)
+            - `text_preview`: short preview text
+            - `metadata`: metadata mapping for the document
 
-    Returns a ranked list of dicts with keys: `rank`, `distance`, `document_id`,
-    `text_preview`, `metadata`.
+        Additionally, for evaluation consumers we include normalized keys:
+            - `doc_id`: stable document/chunk id (same as `document_id`)
+            - `content`: full text content extracted from the document
+            - `score`: numeric similarity/score (same as `distance`)
     """
     if index is None:
         raise ValueError("index is None")
@@ -220,12 +230,56 @@ def retrieve_top_k(
     q_emb = embed_query(query)
     q_arr = q_emb.reshape(1, -1).astype(np.float32)
 
-    # FAISS expects 2D array
-    # Search
-    topk = min(k, int(index.ntotal)) if hasattr(index, "ntotal") else k
-    distances, indices = index.search(q_arr, topk)
-    distances = distances[0].tolist()
-    indices = indices[0].tolist()
+    # Optional metadata-aware pre-filtering: when a metadata_filter dict is
+    # provided, build a temporary FAISS index containing only matching
+    # documents to reduce candidate space and improve precision.
+    if metadata_filter:
+        # Find matching document indices
+        matching_indices: List[int] = []
+        for idx, doc in enumerate(documents):
+            doc_meta = doc.get("metadata") or metadata.get(doc.get("id")) or {}
+            if not isinstance(doc_meta, dict):
+                continue
+            match = True
+            for kf, vf in metadata_filter.items():
+                if doc_meta.get(kf) != vf:
+                    match = False
+                    break
+            if match:
+                matching_indices.append(idx)
+
+        if not matching_indices:
+            return []
+
+        # Build temporary index over matching vectors
+        vecs = []
+        idx_map = []
+        for idx in matching_indices:
+            doc = documents[idx]
+            emb = doc.get("embedding")
+            if emb is None:
+                emb_vec = embed_from_document(doc)
+            else:
+                emb_vec = np.array(emb, dtype=np.float32)
+            vecs.append(emb_vec)
+            idx_map.append(idx)
+
+        xb = np.vstack(vecs).astype(np.float32)
+        faiss.normalize_L2(xb)
+        temp_index = faiss.IndexFlatIP(EMBED_DIM)
+        temp_index.add(xb)
+
+        topk = min(k, int(temp_index.ntotal))
+        distances, indices = temp_index.search(q_arr, topk)
+        distances = distances[0].tolist()
+        indices = [idx_map[i] for i in indices[0].tolist()]
+    else:
+        # FAISS expects 2D array
+        # Search
+        topk = min(k, int(index.ntotal)) if hasattr(index, "ntotal") else k
+        distances, indices = index.search(q_arr, topk)
+        distances = distances[0].tolist()
+        indices = indices[0].tolist()
 
     results: List[Dict[str, Any]] = []
     for rank, (idx, dist) in enumerate(zip(indices, distances), start=1):
@@ -241,12 +295,14 @@ def retrieve_top_k(
             doc_id = None
             doc_meta = None
             text_preview = ""
+            full_text = ""
         else:
             doc_id = doc.get("id")
             doc_meta = doc.get("metadata") or metadata.get(doc_id)
             full_text = _get_text_from_doc(doc)
             text_preview = full_text[:300]
 
+        # Normalized/structured result for downstream evaluation
         results.append(
             {
                 "rank": rank,
@@ -254,6 +310,10 @@ def retrieve_top_k(
                 "document_id": doc_id,
                 "text_preview": text_preview,
                 "metadata": doc_meta,
+                # Evaluation-friendly fields
+                "doc_id": doc_id,
+                "content": full_text,
+                "score": float(dist),
             }
         )
 
@@ -307,6 +367,47 @@ def audit_retrieval(results: List[Dict[str, Any]]) -> None:
         print("WARNING: Average similarity is low — results may not be relevant. Possible causes: mock embeddings, wrong normalization, or missing context.")
     elif avg_dist < 0.5:
         print("NOTE: Similarity is moderate. Consider increasing number of retrieved chunks or improving embeddings.")
+
+
+def rerank_by_cosine(query: str, results: List[Dict[str, Any]]) -> List[Dict[str, Any]]:
+    """Re-rank an existing results list by cosine similarity between the
+    query embedding and each document's embedding.
+
+    This function does not introduce new documents; it only reorders the
+    existing `results`. It is lightweight and optional.
+    """
+    if not results:
+        return results
+
+    q_emb = embed_query(query)
+
+    scored = []
+    for r in results:
+        doc = r.get("content")
+        # Build a doc-like dict for embed_from_document convenience
+        doc_obj = {"content": doc, "id": r.get("doc_id")}
+        try:
+            emb = embed_from_document(doc_obj)
+        except Exception:
+            emb = None
+
+        if emb is None:
+            score = r.get("score", 0.0)
+        else:
+            # both are normalized in embed_from_document and embed_query
+            score = float(np.dot(q_emb, emb))
+
+        scored.append((score, r))
+
+    scored.sort(key=lambda x: x[0], reverse=True)
+    new_results = []
+    for i, (score, r) in enumerate(scored, start=1):
+        r2 = dict(r)
+        r2["score"] = float(score)
+        r2["rank"] = i
+        new_results.append(r2)
+
+    return new_results
 
 
 def assert_retrieval_sanity(

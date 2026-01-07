@@ -1,11 +1,13 @@
 [
   {
-    "id": "c27c31d0-72ed-4a95-afc8-a01bed867ab4",
+    "id": "9f47da6d7f48f7c4d812e3d1aa4f020450a58bce4a9e3f5d79053ffe3c391a42",
     "text_preview": "HR-B-PO-01\n\nEmployee Tuition Affordability Program Policy\n\n\n\nI. Purpose\nThe purpose of this policy is to provide tuition assistance to eligible employ...",
     "text_length": 1751,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-B-PO-01 Employee Tuition Affordability Program Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 1,
       "chunk_index": 0,
       "chunk_size": 377,
@@ -13,90 +15,104 @@
     }
   },
   {
-    "id": "6b977a37-5440-44e6-8b6e-e33a34558e2e",
+    "id": "031ef57576ad1ad9c8ea2820a1a6bc01edbf5fff5029b7f8688b6329b7c19399",
     "text_preview": "Page 2 of 6\n2. The employee must apply, be admitted, registered for classes as a\nstudent at UTA and successfully complete the class(es). Retirees\nand ...",
-    "text_length": 2015,
+    "text_length": 1833,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-B-PO-01 Employee Tuition Affordability Program Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 2,
       "chunk_index": 0,
-      "chunk_size": 441,
+      "chunk_size": 400,
       "total_chunks": 9
     }
   },
   {
-    "id": "09a8f908-9a32-4da0-aa59-6dbb3acb15c5",
-    "text_preview": "ETAP provides tuition assistance for:\na. Up to six credit hours per semester for full-time employees\nand up to three credit hours per semester for par...",
-    "text_length": 425,
+    "id": "b27100c20f410c423c648d67ad592d2b642bca91bae03c92d01a11fb838ed341",
+    "text_preview": " has been applied.\n3. The UTA-ETAP provides tuition assistance for:\na. Up to six credit hours per semester for full-time employees\nand up to three cre...",
+    "text_length": 455,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-B-PO-01 Employee Tuition Affordability Program Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 2,
+      "chunk_index": 1,
+      "chunk_size": 101,
+      "total_chunks": 9
+    }
+  },
+  {
+    "id": "d702250ef754ef3539d67791aedd2c2003da22b8540dd04fc3038897e6d070b8",
+    "text_preview": "Page 3 of 6\n4. The UTA-ETAP is capped only by the number of semester courses\nper eligible employee and has no maximum amount of tuition\nassistance per...",
+    "text_length": 1638,
+    "embedding_length": 3072,
+    "metadata": {
+      "source": "HR-B-PO-01 Employee Tuition Affordability Program Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
+      "page": 3,
+      "chunk_index": 0,
+      "chunk_size": 400,
+      "total_chunks": 9
+    }
+  },
+  {
+    "id": "cc82bfb24e90e05a82f3332cd773279633cfbe9c4d18c5b8f8225f51b85d1025",
+    "text_preview": " or\nb. \u201cB\u201d (3.0 grade points) or higher for graduate courses.\n2. In order to continue to be eligible for the UTA-ETAP, the employee\nmust meet the foll...",
+    "text_length": 303,
+    "embedding_length": 3072,
+    "metadata": {
+      "source": "HR-B-PO-01 Employee Tuition Affordability Program Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
+      "page": 3,
+      "chunk_index": 1,
+      "chunk_size": 87,
+      "total_chunks": 9
+    }
+  },
+  {
+    "id": "a1ec450899bbc8065bfcd1e04e466f96d64ac5cb7cbfaf5cb1d89fd08e18282f",
+    "text_preview": "Page 4 of 6\ni. An employee is not eligible to continue participation in\nthe UTA-ETAP if the employee has a grade of\n\u201cIncomplete\u201d or \u201cWithdrawal\u201d.\nii. ...",
+    "text_length": 1745,
+    "embedding_length": 3072,
+    "metadata": {
+      "source": "HR-B-PO-01 Employee Tuition Affordability Program Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
+      "page": 4,
+      "chunk_index": 0,
+      "chunk_size": 400,
+      "total_chunks": 9
+    }
+  },
+  {
+    "id": "638574c3b06cef3bd97261c637dfdc280e63f3472082bad9309d832884703eef",
+    "text_preview": ", children and other family members are\nexcluded from the UTA-ETAP.\n4. There is no limit on the number of UTA-ETAP recipients.\nG. Class Attendance Dur...",
+    "text_length": 428,
+    "embedding_length": 3072,
+    "metadata": {
+      "source": "HR-B-PO-01 Employee Tuition Affordability Program Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
+      "page": 4,
       "chunk_index": 1,
       "chunk_size": 91,
       "total_chunks": 9
     }
   },
   {
-    "id": "1d67993d-6cd1-47a6-bb38-0da68d4f5c1c",
-    "text_preview": "Page 3 of 6\n4. The UTA-ETAP is capped only by the number of semester courses\nper eligible employee and has no maximum amount of tuition\nassistance per...",
-    "text_length": 1740,
-    "embedding_length": 3072,
-    "metadata": {
-      "source": "HR-B-PO-01 Employee Tuition Affordability Program Policy.pdf",
-      "page": 3,
-      "chunk_index": 0,
-      "chunk_size": 427,
-      "total_chunks": 9
-    }
-  },
-  {
-    "id": "8186a91c-2726-493c-91d2-5c71ab83d9ed",
-    "text_preview": "0 grade points) or higher for graduate courses.\n2. In order to continue to be eligible for the UTA-ETAP, the employee\nmust meet the following requirem...",
-    "text_length": 289,
-    "embedding_length": 3072,
-    "metadata": {
-      "source": "HR-B-PO-01 Employee Tuition Affordability Program Policy.pdf",
-      "page": 3,
-      "chunk_index": 1,
-      "chunk_size": 77,
-      "total_chunks": 9
-    }
-  },
-  {
-    "id": "fee36896-c150-4fba-8205-4161541b4d36",
-    "text_preview": "Page 4 of 6\ni. An employee is not eligible to continue participation in\nthe UTA-ETAP if the employee has a grade of\n\u201cIncomplete\u201d or \u201cWithdrawal\u201d.\nii. ...",
-    "text_length": 1910,
-    "embedding_length": 3072,
-    "metadata": {
-      "source": "HR-B-PO-01 Employee Tuition Affordability Program Policy.pdf",
-      "page": 4,
-      "chunk_index": 0,
-      "chunk_size": 431,
-      "total_chunks": 9
-    }
-  },
-  {
-    "id": "6a02625b-2dbe-4ed2-a46a-b5347c913b07",
-    "text_preview": " the UTA-ETAP.\n4. There is no limit on the number of UTA-ETAP recipients.\nG. Class Attendance During Working Hours\n1. Employees should make every effo...",
-    "text_length": 375,
-    "embedding_length": 3072,
-    "metadata": {
-      "source": "HR-B-PO-01 Employee Tuition Affordability Program Policy.pdf",
-      "page": 4,
-      "chunk_index": 1,
-      "chunk_size": 81,
-      "total_chunks": 9
-    }
-  },
-  {
-    "id": "6105d30d-c69f-4f89-b372-e46832d090a1",
+    "id": "95cd6994f4f293a8df3d8eb3314a0b509ed23f8e17a4e2de643f8ff83d36bc0e",
     "text_preview": "Page 5 of 6\nauthorization for release time from their supervisor each academic\nsemester.\n2. Granting of release time is at the discretion of the super...",
     "text_length": 1436,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-B-PO-01 Employee Tuition Affordability Program Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 5,
       "chunk_index": 0,
       "chunk_size": 316,
@@ -104,12 +120,14 @@
     }
   },
   {
-    "id": "de64252f-d1d4-43bb-ac21-819cec442293",
+    "id": "30335a23c4b2a90755da7c412547b84ee661832db6ae2cbe940ba34a5f9bcc80",
     "text_preview": "Page 6 of 6\nUT System Rules and Regulations of the Board or Regents Rule 30112 Training\nand Education\n\nOffice of Talent, Culture, and Engagement Forms...",
     "text_length": 799,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-B-PO-01 Employee Tuition Affordability Program Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 6,
       "chunk_index": 0,
       "chunk_size": 207,
@@ -117,12 +135,14 @@
     }
   },
   {
-    "id": "9264db41-6f0a-4c8e-8ef3-0e4b847b302e",
+    "id": "ddb25a17181db96eb1143aefdbb9e529287715b0c3178884d571c7fe15100515",
     "text_preview": "HR-B-PO-10\nEmployee Dependent Scholarship Policy\nContents\nI. Title\nII. Policy\nIII. Definitions\nIV. Relevant Federal and State Statutes\nV. Relevant UT ...",
     "text_length": 1089,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-B-PO-10 Employee Dependent Scholarship Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 1,
       "chunk_index": 0,
       "chunk_size": 238,
@@ -130,12 +150,14 @@
     }
   },
   {
-    "id": "7a760808-46cd-495e-aced-dac292080734",
+    "id": "84430c58892e969b3bb5b0666362647656c4d2998a60932bdc9a192482cef834",
     "text_preview": "Page 2 of 5\nemployment (40 work hours per week/1.0 FTE) with the University\nprior to:\na. August 1 for the Fall semester;\nb. January 1 for the Spring s...",
     "text_length": 1516,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-B-PO-10 Employee Dependent Scholarship Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 2,
       "chunk_index": 0,
       "chunk_size": 379,
@@ -143,38 +165,44 @@
     }
   },
   {
-    "id": "7a2d5e7f-17a3-43bf-8fff-558900230a0a",
+    "id": "760fcee143ada45380e6c9d1cbfab1f4d34481ff085c63fbb94f8167a308e311",
     "text_preview": "Page 3 of 5\nF. Approval\nApproved UTA EDS tuition assistance will be applied to the Dependent\u2019s\ntuition and course related fees for the semester by the...",
-    "text_length": 2026,
+    "text_length": 1832,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-B-PO-10 Employee Dependent Scholarship Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 3,
       "chunk_index": 0,
-      "chunk_size": 446,
+      "chunk_size": 400,
       "total_chunks": 5
     }
   },
   {
-    "id": "944387e3-3738-4153-970e-12e4b6fe40d8",
-    "text_preview": " receives. In the event\nan employee Dependent receives a partial tuition waiver, grant, or\nscholarship that covers full tuition and fees, the UTA EDS ...",
-    "text_length": 403,
+    "id": "852c6fa2bb83df25e4247629d551ccdab55b46787285afc06f66035e3900b3d2",
+    "text_preview": ", grant,\nor scholarship which an employee Dependent receives. In the event\nan employee Dependent receives a partial tuition waiver, grant, or\nscholars...",
+    "text_length": 454,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-B-PO-10 Employee Dependent Scholarship Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 3,
       "chunk_index": 1,
-      "chunk_size": 96,
+      "chunk_size": 106,
       "total_chunks": 5
     }
   },
   {
-    "id": "3a33189c-da67-4dfd-a1c0-aba01cd823d7",
+    "id": "b6f63ecf4e1238751a68f9d90144c31a4430e78ce3ac7e8b68b0721b0a5959c7",
     "text_preview": "Page 4 of 5\n6. UTA EDS benefits cannot be applied retroactively.\nI. Program Termination\nExcept as may be limited by Texas law or UT System policy, the...",
     "text_length": 1593,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-B-PO-10 Employee Dependent Scholarship Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 4,
       "chunk_index": 0,
       "chunk_size": 365,
@@ -182,181 +210,239 @@
     }
   },
   {
-    "id": "7dc00dd1-6d48-4092-9c0a-4d33165d2718",
+    "id": "4af587c702fbeddabc353b9c27ee2b7681619161eef9bcf7341912cf8667d01e",
     "text_preview": "HR-B-PR-01\n\n\nEmployee Tuition Affordability Program Procedure\n\n\nI. Objective\nThe objective of this procedure is to provide an overview of the responsi...",
     "text_length": 1163,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-B-PR-01 Employee Tuition Affordability Program Procedure.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 1,
       "chunk_index": 0,
       "chunk_size": 257,
-      "total_chunks": 4
+      "total_chunks": 5
     }
   },
   {
-    "id": "4b25c95e-628b-46b2-836f-cf48f95611ac",
+    "id": "f81a51d580ae5b3e9d32caa4d22e5f776fd1f87d516347b81c1c89f188cd9497",
     "text_preview": "Page 2 of 4\n3. Financial Aid Office\nReviews the submitted forms to determine the amount of tuition\nassistance to be paid.\nB. Tuition Affordability Pro...",
     "text_length": 1537,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-B-PR-01 Employee Tuition Affordability Program Procedure.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 2,
       "chunk_index": 0,
       "chunk_size": 336,
-      "total_chunks": 4
+      "total_chunks": 5
     }
   },
   {
-    "id": "809962a5-4455-4170-896f-f405a8b9567f",
+    "id": "8d13b21900637b7cd5ca9d2169eecdf5c234140a985976e52034980fd0ff1836",
     "text_preview": "Page 3 of 4\niv. Upon verification of the above, supervisor will approve\nor deny the Form and submit it to the applicable\nsupervisor and dean/vice pres...",
     "text_length": 1732,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-B-PR-01 Employee Tuition Affordability Program Procedure.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 3,
       "chunk_index": 0,
       "chunk_size": 390,
-      "total_chunks": 4
+      "total_chunks": 5
     }
   },
   {
-    "id": "ed7457c7-74fc-4658-bf3c-e4f7ae3d6e68",
+    "id": "c2c47a16c0eb8b8d5dd6a12d608ca678a097e0e06ad482e12e60807788b67d00",
+    "text_preview": "\nawards, if applicable.\n\ng. The Payroll Department will review the tuition assistance\namounts annually to determine and report any taxable income\nto t...",
+    "text_length": 240,
+    "embedding_length": 3072,
+    "metadata": {
+      "source": "HR-B-PR-01 Employee Tuition Affordability Program Procedure.pdf",
+      "policy_type": null,
+      "section_name": null,
+      "page": 3,
+      "chunk_index": 1,
+      "chunk_size": 50,
+      "total_chunks": 5
+    }
+  },
+  {
+    "id": "80056fea768ffcbb153bb9b54735105e82179e3e2859d063f6afcf382b972ecb",
     "text_preview": "Page 4 of 4\nC. Authorization and Issuance of Payment\n\nUpon completion of the required provisions, the Financial Aid Office, will\nauthorize issuance of...",
     "text_length": 1193,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-B-PR-01 Employee Tuition Affordability Program Procedure.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 4,
       "chunk_index": 0,
       "chunk_size": 295,
-      "total_chunks": 4
+      "total_chunks": 5
     }
   },
   {
-    "id": "b03ce03c-fb33-45dd-b467-f2544780e041",
+    "id": "19a80b6d022bff6281be917f2247ca3a8c976d45c6cfa8032f85ddb890e8cfa1",
     "text_preview": "HR-E-PO-11\nStudent Employment Policy\nContents\nI. Title\nII. Policy\nIII. Definitions\nIV. Relevant Federal and State Statutes\nV. Relevant UT System Polic...",
     "text_length": 1411,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-E-PO-11 Student Employment Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 1,
       "chunk_index": 0,
       "chunk_size": 305,
-      "total_chunks": 9
+      "total_chunks": 10
     }
   },
   {
-    "id": "b04848f6-7f05-4f28-ae80-744584bee44f",
+    "id": "41909c1838e6e46bc2d88b926fabf4700abc91f74eb7a828d89702098ff2b87d",
     "text_preview": "Page 2 of 6\nc. Work-study eligibility periods during the fall, spring, and\nsummer semesters are as follows:\ni.Fall: August 16 to December 31\nii.Spring...",
     "text_length": 1667,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-E-PO-11 Student Employment Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 2,
       "chunk_index": 0,
       "chunk_size": 382,
-      "total_chunks": 9
+      "total_chunks": 10
     }
   },
   {
-    "id": "b83d0bf6-7f81-427c-8f6c-a0b3987c15ab",
+    "id": "c67f917a126494e5d0e538fbc2027ab5904d2109a463e78bb0d35eee25df5e4a",
+    "text_preview": " requirements regarding the hiring\nof high school students.\nc.See UTA Policy CO-LS-PO-01 Minors in Laboratories or\nSimilar Facilities Policy for addit...",
+    "text_length": 198,
+    "embedding_length": 3072,
+    "metadata": {
+      "source": "HR-E-PO-11 Student Employment Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
+      "page": 2,
+      "chunk_index": 1,
+      "chunk_size": 42,
+      "total_chunks": 10
+    }
+  },
+  {
+    "id": "a6bdd6d2d5e78c94f0005f6a2ac6c890458aebe5204f8cdd627b1a18be496243",
     "text_preview": "Page 3 of 6\n5. Intern (Student Hourly) (10988)\nUTA student internships are not approved and/or supervised by the\nOffice of Talent, Culture, and Engage...",
-    "text_length": 1905,
+    "text_length": 1819,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-E-PO-11 Student Employment Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 3,
       "chunk_index": 0,
-      "chunk_size": 440,
-      "total_chunks": 9
+      "chunk_size": 400,
+      "total_chunks": 10
     }
   },
   {
-    "id": "02a56c6a-e553-4772-bff7-c96a6025b7cc",
-    "text_preview": " for employee benefits (e.g. sick leave,\nunemployment compensation, vacation leave, holiday pay, longevity\npay, miscellaneous leaves, group insurance,...",
-    "text_length": 297,
+    "id": "572625be7ad6b48bfd209e1b8872a7e58d7385d797f0a33809627e5dc5b5824e",
+    "text_preview": " a student employee.\n6. Students are not eligible for employee benefits (e.g. sick leave,\nunemployment compensation, vacation leave, holiday pay, long...",
+    "text_length": 346,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-E-PO-11 Student Employment Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 3,
       "chunk_index": 1,
-      "chunk_size": 90,
-      "total_chunks": 9
+      "chunk_size": 100,
+      "total_chunks": 10
     }
   },
   {
-    "id": "4bc9161c-5a32-4b5f-b205-e38b35bb857b",
+    "id": "86d5852fdd94fd41309e7e53a05eaff0d7c999050fd14cc4b5fe3bb82b982525",
     "text_preview": "Page 4 of 6\nD. Hour and Scheduling Limitations\n1. An hourly student employee may not work more than a total of\nnineteen hours per week while their cla...",
-    "text_length": 2188,
+    "text_length": 1843,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-E-PO-11 Student Employment Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 4,
       "chunk_index": 0,
-      "chunk_size": 468,
-      "total_chunks": 9
+      "chunk_size": 400,
+      "total_chunks": 10
     }
   },
   {
-    "id": "27dda176-4cba-40a5-971f-eee40a3add76",
-    "text_preview": ", unless they\nare able to provide proof of work authorization.\n7. International hourly student employees must follow the requirements\nof the student v...",
-    "text_length": 622,
+    "id": "76c41175aace3d562f774eba7c2bee5603b4cd135c827bb483c1a199071b08c2",
+    "text_preview": "official last day of term\u201d in the academic calendar, unless they\nare able to provide proof of work authorization.\n7. International hourly student empl...",
+    "text_length": 673,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-E-PO-11 Student Employment Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 4,
       "chunk_index": 1,
-      "chunk_size": 118,
-      "total_chunks": 9
+      "chunk_size": 128,
+      "total_chunks": 10
     }
   },
   {
-    "id": "31529877-0743-4132-8d6f-882ff2b09a51",
+    "id": "af41f5b34c739b556d5166e57a97fe76f6910193f959d04e89ec0ca6853068f9",
     "text_preview": "Page 5 of 6\nIII. Definitions\nActive Enrollment: A student who has been admitted to UTA who is currently\nenrolled in courses and has not yet graduated....",
-    "text_length": 1867,
+    "text_length": 1723,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-E-PO-11 Student Employment Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 5,
       "chunk_index": 0,
-      "chunk_size": 437,
-      "total_chunks": 9
+      "chunk_size": 400,
+      "total_chunks": 10
     }
   },
   {
-    "id": "b3508c1a-f81b-4558-90d6-0271d4d2191c",
-    "text_preview": " 822.002(b) Exceptions to Membership Requirement\nTex. Ins. Code \u00a7 1601.101 Participation Eligibility: Employees\nV. Relevant UT System Policies, Proced...",
-    "text_length": 366,
+    "id": "e5e09970387018f3718832e4c83af6c5c003f5803b9130832012c72a3258763d",
+    "text_preview": " of Higher Education\nTex. Gov. Code \u00a7 822.002(b) Exceptions to Membership Requirement\nTex. Ins. Code \u00a7 1601.101 Participation Eligibility: Employees\nV...",
+    "text_length": 403,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-E-PO-11 Student Employment Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 5,
       "chunk_index": 1,
-      "chunk_size": 87,
-      "total_chunks": 9
+      "chunk_size": 97,
+      "total_chunks": 10
     }
   },
   {
-    "id": "21f3a08f-05b3-4178-88c9-f3b4ae267bce",
+    "id": "abcb81f6837788a297566c85615f3b0aa2a8a81d2240b731f1007375a8053c59",
     "text_preview": "Page 6 of 6\nUTA Procedure HR-E-PR-21 Student Employment Procedure\nUTA Procedure HR-E-PR-36 Timeclock Procedure\nVI. Who Should Know\nUTA students and st...",
     "text_length": 548,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-E-PO-11 Student Employment Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 6,
       "chunk_index": 0,
       "chunk_size": 133,
-      "total_chunks": 9
+      "total_chunks": 10
     }
   },
   {
-    "id": "dfbe1f23-2417-4ba6-a238-f677f5ca9e11",
+    "id": "3aaee164d7ff5ae249243e7e9adcff932b03ea888b09c31ff94c665c7e0e1be6",
     "text_preview": "HR-E-PO-18\nMavTemp Temporary Employment Services Policy\nContents\nI. Title\nII. Policy\nIII. Definitions\nIV. Relevant Federal and State Statutes\nV. Relev...",
     "text_length": 1363,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-E-PO-18 MavTemp Temporary Employment Services Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 1,
       "chunk_index": 0,
       "chunk_size": 308,
@@ -364,12 +450,14 @@
     }
   },
   {
-    "id": "e4f7e6e6-59b7-4de8-9681-1ab78544bfa6",
+    "id": "886a28dcbae29e7eee4d6ce93645421eb2b81aec279d5c06f81451e2dcdaf95e",
     "text_preview": "Page 2 of 2\nUT System Rules and Regulations of the Board of Regents Rule 30102 General\nAppointment Information\nVI. Who Should Know\nAny applicant seeki...",
     "text_length": 640,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-E-PO-18 MavTemp Temporary Employment Services Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 2,
       "chunk_index": 0,
       "chunk_size": 143,
@@ -377,12 +465,14 @@
     }
   },
   {
-    "id": "95fc1175-6839-4dbe-8442-c1c8040cebc8",
+    "id": "20de920d62345652c739aced987a393acddea91d0d31fc98bfdf2ba471199df9",
     "text_preview": "HR-E-PR-21\nStudent Employment Procedure\nContents\nI. Title\nII. Objective\nIII. Scope\nIV. Procedure\nV. Definitions\nVI. Relevant Federal and State Statute...",
     "text_length": 1073,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-E-PR-21 Student Employment Procedure.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 1,
       "chunk_index": 0,
       "chunk_size": 237,
@@ -390,12 +480,14 @@
     }
   },
   {
-    "id": "a7f9e385-d4aa-45e7-8a3f-4d096a1ad8d5",
+    "id": "11af08041749e067c35c7b265e254bdce4268a11867f46003e8da9198e2525d0",
     "text_preview": "Page 2 of 8\n3. If offered a position, sign the offer letter and return it to the hiring\nmanager.\nB. Department Procedures\n1. Determine the scope of th...",
     "text_length": 1776,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-E-PR-21 Student Employment Procedure.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 2,
       "chunk_index": 0,
       "chunk_size": 370,
@@ -403,38 +495,44 @@
     }
   },
   {
-    "id": "a8cef204-e84a-406d-913a-17bb8bb200c0",
+    "id": "de6fbc5081c50991cbd97d5473858aec7122dd3490b5bb2d8a26d3dea3df9c2d",
     "text_preview": "Page 3 of 8\n7. Create an offer letter using the offer letter templates provided on the\nTCE Student Employment website and extend the offer to the\nstud...",
-    "text_length": 1996,
+    "text_length": 1839,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-E-PR-21 Student Employment Procedure.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 3,
       "chunk_index": 0,
-      "chunk_size": 434,
+      "chunk_size": 400,
       "total_chunks": 10
     }
   },
   {
-    "id": "9ab2a4e3-f9ce-473e-b69c-8cf026de2233",
-    "text_preview": " to the student by the Social\nSecurity Administration (SSA) must be attached in order for the\neForm to be approved.\n3. Once the SSN arrives in the mai...",
-    "text_length": 363,
+    "id": "d9d455b4f12cc31ba8953e29da511d5642f832efafbefc4f06ade887712b0a68",
+    "text_preview": " Receipt for\nApplication for a SSN as provided to the student by the Social\nSecurity Administration (SSA) must be attached in order for the\neForm to b...",
+    "text_length": 409,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-E-PR-21 Student Employment Procedure.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 3,
       "chunk_index": 1,
-      "chunk_size": 84,
+      "chunk_size": 94,
       "total_chunks": 10
     }
   },
   {
-    "id": "a3501286-b44c-4f56-a21f-d4573766a30c",
+    "id": "0acc55c47deaf6c5dca3a25f93297cf83d6ae11b0bd9bc678d5d365962bbcde5",
     "text_preview": "Page 4 of 8\n1. 10060 Student Operations Assistant\nActively enrolled students who will perform duties that are not\nadministrative or technical in natur...",
     "text_length": 1342,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-E-PR-21 Student Employment Procedure.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 4,
       "chunk_index": 0,
       "chunk_size": 286,
@@ -442,12 +540,14 @@
     }
   },
   {
-    "id": "37f268c2-a36d-4ea0-8ab7-fbb72236dc22",
+    "id": "4b723719f218231f614c7fb4fea75cc08075f20c4b74e17ba1d7f8ad215eb4a5",
     "text_preview": "Page 5 of 8\n10. 10076 Student Administrative Support\nActively enrolled students who will perform a broad range of non-\ncomplex administrative and cler...",
     "text_length": 1887,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-E-PR-21 Student Employment Procedure.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 5,
       "chunk_index": 0,
       "chunk_size": 374,
@@ -455,38 +555,44 @@
     }
   },
   {
-    "id": "26a17dce-dc0c-4a05-b6f7-0e4a16690da8",
+    "id": "3c4184c2f3473261b5e32aeb446117bb23b03c6a6011d398daa665829870eb7a",
     "text_preview": "Page 6 of 8\n18. 10136 Senior Student Technical Assistant \u2013 Work-Study (WS)\nActively enrolled students, who under close supervision, will assist\ntheir ...",
-    "text_length": 1912,
+    "text_length": 1911,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-E-PR-21 Student Employment Procedure.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 6,
       "chunk_index": 0,
-      "chunk_size": 401,
+      "chunk_size": 400,
       "total_chunks": 10
     }
   },
   {
-    "id": "c3b9444f-d6aa-4d0d-b9a9-739e0457aa44",
-    "text_preview": ". After the ECR Form has been submitted, the department must create\nan electronic separation document (eForm) in the UT Share system\nto terminate the ...",
-    "text_length": 252,
+    "id": "8d57ca1682fa92aaa18d23984633908c829330b4c6120d70bae3e23784d2885a",
+    "text_preview": " specifics of the\ntermination have been decided.\n3. After the ECR Form has been submitted, the department must create\nan electronic separation documen...",
+    "text_length": 302,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-E-PR-21 Student Employment Procedure.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 6,
       "chunk_index": 1,
-      "chunk_size": 51,
+      "chunk_size": 61,
       "total_chunks": 10
     }
   },
   {
-    "id": "0bd1c15c-ad35-48ea-8adb-6af6cfb1f4b2",
+    "id": "fe0131ae6d0982e37c13c4ee4a1a3af84c657ccb805e18e36f70831cc3a21037",
     "text_preview": "Page 7 of 8\n4. Hourly student employees are encouraged to give the supervisor at\nleast two weeks advance notice of resignation through the clearance\na...",
     "text_length": 1353,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-E-PR-21 Student Employment Procedure.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 7,
       "chunk_index": 0,
       "chunk_size": 272,
@@ -494,12 +600,14 @@
     }
   },
   {
-    "id": "e2e97c35-121d-43c2-857c-81df3812d2fb",
+    "id": "6c3bf82c7981fa9b186332ae3c63482235e9f29712e614bda70c521915b0f347",
     "text_preview": "Page 8 of 8\nX. Dates Approved or Amended\nJanuary 27, 2016\nFebruary 21, 2024\nOctober 4, 2024\nXI. Contact Information\nAll questions regarding this proce...",
     "text_length": 254,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-E-PR-21 Student Employment Procedure.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 8,
       "chunk_index": 0,
       "chunk_size": 74,
@@ -507,12 +615,14 @@
     }
   },
   {
-    "id": "b8cd8f23-0100-4102-99d5-2318fdc54c74",
+    "id": "548a6deb6498a8df4cefb5c6a71b528d89f44d9ca1d295306f8d1ecad8cb1ff5",
     "text_preview": "HR-E-PR-37\nMavTemp Temporary Employment Services Procedure\nContents\nI. Title\nII. Objective\nIII. Scope\nIV. Procedure\nV. Definitions\nVI. Relevant Federa...",
     "text_length": 1255,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-E-PR-37 MavTemp Temporary Employment Services Procedure.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 1,
       "chunk_index": 0,
       "chunk_size": 272,
@@ -520,12 +630,14 @@
     }
   },
   {
-    "id": "9d183556-3cd7-46c5-a7c0-4da347531348",
+    "id": "744724e2758ba07bbdea1c05fc498f64ca55144b595db33b5e893439b349f0cb",
     "text_preview": "Page 2 of 4\n2. The use of outside staffing agencies is discouraged. Private\nagencies should be used only after it is determined that no qualified\nindi...",
     "text_length": 1763,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-E-PR-37 MavTemp Temporary Employment Services Procedure.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 2,
       "chunk_index": 0,
       "chunk_size": 363,
@@ -533,38 +645,44 @@
     }
   },
   {
-    "id": "972d6103-42ef-4e4f-b9e9-d15cdd03d43c",
+    "id": "fc2165b20a669ce6b7d78b3feb9556b0e9a12f2dc25f412e4f00e9074a81d735",
     "text_preview": "Page 3 of 4\nG. Timekeeping\nAll timekeeping records are maintained in the official TCP timekeeping\nsystem. Temporary employees are responsible for subm...",
-    "text_length": 2149,
+    "text_length": 1960,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-E-PR-37 MavTemp Temporary Employment Services Procedure.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 3,
       "chunk_index": 0,
-      "chunk_size": 436,
+      "chunk_size": 400,
       "total_chunks": 5
     }
   },
   {
-    "id": "9e39cfa5-4b23-42b1-8991-9c1b1b771085",
-    "text_preview": " temporary employees are not eligible for\nbenefits, any employee who converts from a temporary employee to\na permanent employee will not receive any t...",
-    "text_length": 446,
+    "id": "eca5eec3b4eda2fcee252a02ae654c9d174ead643202786b4ac138b8e13c6fb0",
+    "text_preview": " accrue benefits from the\nnew service date. Since temporary employees are not eligible for\nbenefits, any employee who converts from a temporary employ...",
+    "text_length": 495,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-E-PR-37 MavTemp Temporary Employment Services Procedure.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 3,
       "chunk_index": 1,
-      "chunk_size": 86,
+      "chunk_size": 96,
       "total_chunks": 5
     }
   },
   {
-    "id": "4aedc693-d68d-494c-ac9a-5a640b6ba065",
+    "id": "9d4a0ad3343d959a6b808bb9e619494fe05d5eee1b26579cf3f3f15f42412e88",
     "text_preview": "Page 4 of 4\ndiscontinuation of the assignment. Exceptions to this practice must be\nreviewed and approved by the Talent Acquisition office.\nV. Definiti...",
     "text_length": 1106,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-E-PR-37 MavTemp Temporary Employment Services Procedure.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 4,
       "chunk_index": 0,
       "chunk_size": 253,
@@ -572,298 +690,374 @@
     }
   },
   {
-    "id": "069c12ef-ad21-4884-bb75-6a3c07ee257a",
+    "id": "b7d896d4f21ff447d93ccf2d67dbed463c00ddebfc2ecb970fb6730263e71f14",
     "text_preview": "HR-LA-PO-01\n\nFamily and Medical Leave Act Policy\n\n\nContents\n\nI. Title\nII. Policy\nIII. Definitions\nIV. Relevant Federal and State Statutes\nV. Relevant ...",
     "text_length": 1275,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-LA-PO-01 Family & Medical Leave Act Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 1,
       "chunk_index": 0,
       "chunk_size": 310,
-      "total_chunks": 22
+      "total_chunks": 24
     }
   },
   {
-    "id": "b2dd5b81-1f2b-406f-9890-f78627f43b9c",
+    "id": "21852eab0e0ea471a59dc30bee74866697285cb90687cf71d3975c3afb683266",
     "text_preview": "Page 2 of 13\n1. Bonding Leave\nLeave for the birth and care of a newborn Child or leave for the\nplacement of a Child for adoption or foster care with a...",
     "text_length": 1698,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-LA-PO-01 Family & Medical Leave Act Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 2,
       "chunk_index": 0,
       "chunk_size": 386,
-      "total_chunks": 22
+      "total_chunks": 24
     }
   },
   {
-    "id": "91c19392-e736-48a4-ae61-019c5b188558",
+    "id": "e6d222e2cf28d71fb2f3a750e1e290428cc8dceb265135798fd07360fa4271d7",
+    "text_preview": "MLA Leave will be 12 work weeks in the\napplicable 12 month period when the leave is taken for:\na. Bonding Leave;\n\nb. Family Care Leave;\n\nc. Serious He...",
+    "text_length": 178,
+    "embedding_length": 3072,
+    "metadata": {
+      "source": "HR-LA-PO-01 Family & Medical Leave Act Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
+      "page": 2,
+      "chunk_index": 1,
+      "chunk_size": 46,
+      "total_chunks": 24
+    }
+  },
+  {
+    "id": "bfa928d08b35688d9ebae95e2ad9d4dc02949ea2a4393f740ca6432fe8b9b11f",
     "text_preview": "Page 3 of 13\n\nd. Qualifying Exigency Leave.\n\n3. The entitlement to leave for a birth or placement of a Child shall\nexpire at the end of the 12 month p...",
-    "text_length": 1788,
+    "text_length": 1687,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-LA-PO-01 Family & Medical Leave Act Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 3,
       "chunk_index": 0,
-      "chunk_size": 423,
-      "total_chunks": 22
+      "chunk_size": 400,
+      "total_chunks": 24
     }
   },
   {
-    "id": "9f0659b5-55cd-4239-9a46-d30887800d51",
-    "text_preview": "A leave will be entitled to receive\n26 work weeks of leave.\nE. Intermittent and Reduced Schedule FMLA Leave and Alternative\nposition\n\nIf an employee t...",
-    "text_length": 338,
+    "id": "b677960965fb138898dead2c23a29014c777d1aaf9814bb80aacacafc795b17e",
+    "text_preview": " period;\nhowever, not all requests for FMLA leave will be entitled to receive\n26 work weeks of leave.\nE. Intermittent and Reduced Schedule FMLA Leave ...",
+    "text_length": 380,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-LA-PO-01 Family & Medical Leave Act Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 3,
       "chunk_index": 1,
-      "chunk_size": 73,
-      "total_chunks": 22
+      "chunk_size": 83,
+      "total_chunks": 24
     }
   },
   {
-    "id": "571438a2-b8d4-439e-924e-c0a8aa705fce",
+    "id": "aff0aa3474b8ae48e20d9dd07b34520dcfc9762ee5099bc99302b77fea45f380",
     "text_preview": "Page 4 of 13\nEmployees may only choose to take FMLA Leave intermittently or\nthrough a reduced schedule when it is medically necessary to care\nfor a se...",
-    "text_length": 2009,
+    "text_length": 1888,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-LA-PO-01 Family & Medical Leave Act Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 4,
       "chunk_index": 0,
-      "chunk_size": 425,
-      "total_chunks": 22
+      "chunk_size": 400,
+      "total_chunks": 24
     }
   },
   {
-    "id": "a3a40d52-0f77-4289-a5dd-f6ec592b8400",
-    "text_preview": " hours per workday. This type of leave might be\nused, when an employee is recovering from a Serious Health\nCondition but is not strong enough to work ...",
-    "text_length": 353,
+    "id": "5dbfcef59df4dd9c68f95eba1ed82ee824a6095db65edf17b26a3a8a5124a051",
+    "text_preview": " usual number of working hours per\nworkweek or hours per workday. This type of leave might be\nused, when an employee is recovering from a Serious Heal...",
+    "text_length": 399,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-LA-PO-01 Family & Medical Leave Act Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 4,
       "chunk_index": 1,
-      "chunk_size": 75,
-      "total_chunks": 22
+      "chunk_size": 85,
+      "total_chunks": 24
     }
   },
   {
-    "id": "f77fbc61-6781-412d-8927-592f7df4da59",
+    "id": "c6e375ca4cd38b70d0d14b3cbefadbc5df5bd2875853cb172f43ff35038a0b26",
     "text_preview": "Page 5 of 13\ncomparing the new schedule with the employee's normal\nschedule.\nc. When the employee has requested a reduced schedule, the\nemployee shall...",
     "text_length": 1713,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-LA-PO-01 Family & Medical Leave Act Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 5,
       "chunk_index": 0,
       "chunk_size": 383,
-      "total_chunks": 22
+      "total_chunks": 24
     }
   },
   {
-    "id": "ecea81d1-4517-4142-af47-74f835a1a4c5",
+    "id": "9f59a74c18db3c500dd74f5bc798c4aa55d7e09ed12ea72e7bce17b321aae71f",
+    "text_preview": " their share of the premiums while on FMLA leave and\nmay do so in any manner customarily used by UTA.\nH. Return to Work After Serious Health Condition...",
+    "text_length": 189,
+    "embedding_length": 3072,
+    "metadata": {
+      "source": "HR-LA-PO-01 Family & Medical Leave Act Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
+      "page": 5,
+      "chunk_index": 1,
+      "chunk_size": 43,
+      "total_chunks": 24
+    }
+  },
+  {
+    "id": "4f1f8698c14827f9e823131df7d8f9b5128856cfba31f335e4354990fbb08c6e",
     "text_preview": "Page 6 of 13\nEmployees returning to work after Serious Health Condition FMLA\nLeave are required to provide a Return to Work (aka Fitness for Duty)\ncer...",
-    "text_length": 2210,
+    "text_length": 1870,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-LA-PO-01 Family & Medical Leave Act Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 6,
       "chunk_index": 0,
-      "chunk_size": 470,
-      "total_chunks": 22
+      "chunk_size": 400,
+      "total_chunks": 24
     }
   },
   {
-    "id": "c2a931eb-deee-4073-8962-71250a059548",
-    "text_preview": " to work and has voluntarily\nterminated their employment.\nI. FMLA Interaction with Other Types of Leave\n\n1. ADA Accommodations\n\nAn ADA accommodation o...",
-    "text_length": 560,
+    "id": "d1475bbb521c01480d7d1e4dccacb541c1a09c70170bdbb7998af36e31768ee0",
+    "text_preview": " presume that the\nemployee does not plan to return to work and has voluntarily\nterminated their employment.\nI. FMLA Interaction with Other Types of Le...",
+    "text_length": 610,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-LA-PO-01 Family & Medical Leave Act Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 6,
       "chunk_index": 1,
-      "chunk_size": 120,
-      "total_chunks": 22
+      "chunk_size": 130,
+      "total_chunks": 24
     }
   },
   {
-    "id": "e5c78d94-98ff-4e0b-b4f4-e3727b62fcd4",
+    "id": "f8087677725cb3e9ab694a48790cb5624a4f73d056657eb007e0940f4c7f2a47",
     "text_preview": "Page 7 of 13\nProcedure HR-LA-PR-08 Sick Leave Pool Procedure. Employees\nwho apply for Sick Leave Pool benefits must also apply for FMLA\nLeave if they ...",
-    "text_length": 2213,
+    "text_length": 1824,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-LA-PO-01 Family & Medical Leave Act Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 7,
       "chunk_index": 0,
-      "chunk_size": 477,
-      "total_chunks": 22
+      "chunk_size": 400,
+      "total_chunks": 24
     }
   },
   {
-    "id": "4b0eac80-abca-40cc-ac42-9e22ea06c927",
-    "text_preview": " Parental Leave Procedure.\nJ. Fraudulent Use of FMLA Prohibited\n\nAn employee who fraudulently obtains FMLA Leave is not protected by\nFMLA\u2019s job restor...",
-    "text_length": 599,
+    "id": "6d99c6464e57addb8fdf0db8f29cfe72d1e3f652bdc320f9a9434c13c8c42279",
+    "text_preview": "TA\u2019s Procedure HR-LA-\nPR-09 Parental Leave Procedure.\nJ. Fraudulent Use of FMLA Prohibited\n\nAn employee who fraudulently obtains FMLA Leave is not pro...",
+    "text_length": 626,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-LA-PO-01 Family & Medical Leave Act Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 7,
       "chunk_index": 1,
-      "chunk_size": 127,
-      "total_chunks": 22
+      "chunk_size": 137,
+      "total_chunks": 24
     }
   },
   {
-    "id": "b58d3a46-4ebe-4c14-b558-7534b8678ce5",
+    "id": "f05693a1a9a67a0c360d1bf3c1c1a80b8b85315084e3d26c8dc8d95f2d193256",
     "text_preview": "Page 8 of 13\nrelated to FMLA or because of their involvement in any activity related to\nFMLA. If an employee believes their FMLA rights have been viol...",
-    "text_length": 2338,
+    "text_length": 1868,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-LA-PO-01 Family & Medical Leave Act Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 8,
       "chunk_index": 0,
-      "chunk_size": 497,
-      "total_chunks": 22
+      "chunk_size": 400,
+      "total_chunks": 24
     }
   },
   {
-    "id": "7197a1ef-5dec-432f-ba9c-3a807f820490",
-    "text_preview": " does not last three days;\n\u2022 A chronic Serious Health Condition, defined as one that requires periodic\nvisits for treatment by a health care provider,...",
-    "text_length": 721,
+    "id": "5a9043fec919e407dfb7603c0e01fce76acc6a812ec491df15f794e32256515b",
+    "text_preview": " does not receive treatment\nand even if the care does not last three days;\n\u2022 A chronic Serious Health Condition, defined as one that requires periodic...",
+    "text_length": 769,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-LA-PO-01 Family & Medical Leave Act Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 8,
       "chunk_index": 1,
-      "chunk_size": 147,
-      "total_chunks": 22
+      "chunk_size": 157,
+      "total_chunks": 24
     }
   },
   {
-    "id": "5c8c42ac-1da6-4873-a821-b46de175a8d9",
+    "id": "6b2c2fa920b29b04ca4a833fd51ec5a12591cbdf04c4cacaa81289202d342672",
     "text_preview": "Page 9 of 13\n\u2022 In addition to these five broad categories, also included are allergies or\nmental illness resulting from stress, but only when all of t...",
-    "text_length": 2226,
+    "text_length": 1712,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-LA-PO-01 Family & Medical Leave Act Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 9,
       "chunk_index": 0,
-      "chunk_size": 500,
-      "total_chunks": 22
+      "chunk_size": 400,
+      "total_chunks": 24
     }
   },
   {
-    "id": "023cb612-6ca2-40d4-bb90-1dc6625cf09b",
-    "text_preview": " is defined as an illness,\ninjury, impairment, or physical or mental condition that involves either 1) in-patient\ncare in a hospital, hospice or resid...",
-    "text_length": 1310,
+    "id": "76656d3e2e1384d117daeb8db880bfa2350ed9f9d289a17e634cddcaf503b34f",
+    "text_preview": ".\nSerious Health Condition: A serious health condition is defined as an illness,\ninjury, impairment, or physical or mental condition that involves eit...",
+    "text_length": 1364,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-LA-PO-01 Family & Medical Leave Act Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 9,
       "chunk_index": 1,
-      "chunk_size": 264,
-      "total_chunks": 22
+      "chunk_size": 274,
+      "total_chunks": 24
     }
   },
   {
-    "id": "0236ea3a-3c75-4be9-9fa8-79d4a422ba88",
+    "id": "fabb18b316f93fcdf98840cdce93116f2413cb4c6d50a5970ed77471b3cda394",
     "text_preview": "Page 10 of 13\n\u2022 A member of the Armed Forces, including a member of a reserve\ncomponent of the Armed Forces, who is undergoing medical treatment,\nrecu...",
-    "text_length": 2406,
+    "text_length": 1871,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-LA-PO-01 Family & Medical Leave Act Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 10,
       "chunk_index": 0,
-      "chunk_size": 500,
-      "total_chunks": 22
+      "chunk_size": 400,
+      "total_chunks": 24
     }
   },
   {
-    "id": "1d01a66c-df04-4e97-bf8f-f04f8ee4735a",
-    "text_preview": "; however, absences\nbecause of an employee's use of a substance without treatment do not qualify for\nfamily leave. The inclusion of substance abuse do...",
-    "text_length": 1458,
+    "id": "746d775811ba4d2925a1ee7e9f46deb0f5bbecfe5a4007faf8438fbc9027c348",
+    "text_preview": "in order to undergo treatment by a health care provider; however, absences\nbecause of an employee's use of a substance without treatment do not qualif...",
+    "text_length": 1513,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-LA-PO-01 Family & Medical Leave Act Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 10,
       "chunk_index": 1,
-      "chunk_size": 290,
-      "total_chunks": 22
+      "chunk_size": 300,
+      "total_chunks": 24
     }
   },
   {
-    "id": "ee2e77c4-47d0-449d-b56d-20339894376f",
+    "id": "46a1fa51cfabc0639ed9e0680fb9989c7bbb9968dca8d08f4cddba8caf276ad3",
     "text_preview": "Page 11 of 13\n\u2022 Additional Activities: To address other events that arise out of the covered\nmilitary member\u2019s Active Duty or call to Active-Duty stat...",
-    "text_length": 2391,
+    "text_length": 1942,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-LA-PO-01 Family & Medical Leave Act Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 11,
       "chunk_index": 0,
-      "chunk_size": 499,
-      "total_chunks": 22
+      "chunk_size": 400,
+      "total_chunks": 24
     }
   },
   {
-    "id": "cda4ea40-c358-45c6-ab9f-dec622a437b3",
-    "text_preview": "Red Cross.\n\u2022 Parental Care: Includes the following:\n1. To arrange for alternative care for a parent of the military member\nwhen the parent is incapabl...",
-    "text_length": 682,
+    "id": "4f3c81b0b4c9e4d3254ed1454d4e544f226c210bf9bae3bbb72a7b3411deb98c",
+    "text_preview": " military, military service organizations, or the American\nRed Cross.\n\u2022 Parental Care: Includes the following:\n1. To arrange for alternative care for ...",
+    "text_length": 741,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-LA-PO-01 Family & Medical Leave Act Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 11,
       "chunk_index": 1,
-      "chunk_size": 149,
-      "total_chunks": 22
+      "chunk_size": 159,
+      "total_chunks": 24
     }
   },
   {
-    "id": "86da0630-86e5-4a02-91d1-09a58fd9a005",
+    "id": "3192c792cff4e5f5689d2b7a1bfe916a50923d639cc66988e647af7f4211cd2e",
     "text_preview": "Page 12 of 13\n4. To attend meetings with staff at a care facility.\n\u2022 Post-deployment Activities: To attend arrival ceremonies, reintegration\nbriefings...",
-    "text_length": 1907,
+    "text_length": 1761,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-LA-PO-01 Family & Medical Leave Act Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 12,
       "chunk_index": 0,
-      "chunk_size": 439,
-      "total_chunks": 22
+      "chunk_size": 400,
+      "total_chunks": 24
     }
   },
   {
-    "id": "37e62be0-8c28-4244-bd0b-20cc7394d2bc",
-    "text_preview": " Relevant UT System Policies, Procedures and Forms\nUT System Policy HOP 3.3.1 Leave Policy\nUT System Policy UTS 185 Injury Leave for Peace Officers\nUT...",
-    "text_length": 348,
+    "id": "27baa88f85d9743988c7c5047d5797042cec4cb7013322f4c8177b611187c90e",
+    "text_preview": ".S. DOL Designation Notice\nV. Relevant UT System Policies, Procedures and Forms\nUT System Policy HOP 3.3.1 Leave Policy\nUT System Policy UTS 185 Injur...",
+    "text_length": 377,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-LA-PO-01 Family & Medical Leave Act Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 12,
       "chunk_index": 1,
-      "chunk_size": 89,
-      "total_chunks": 22
+      "chunk_size": 99,
+      "total_chunks": 24
     }
   },
   {
-    "id": "786f6883-aa68-4892-9c00-501c481b74ee",
+    "id": "dd75a91c922061dfcce83bed3771739f3819374de8ec8eeb6e09ad3c099b9703",
     "text_preview": "Page 13 of 13\nDF-HR-LA-F-03 Request for Family and Medical Leave\nDF-HR-LA-F-04 FMLA Return to Work Release\nInjured Employee Workers\u2019 Compensation Guid...",
     "text_length": 677,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-LA-PO-01 Family & Medical Leave Act Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 13,
       "chunk_index": 0,
       "chunk_size": 173,
-      "total_chunks": 22
+      "total_chunks": 24
     }
   },
   {
-    "id": "2790ebd6-4e03-449b-9e8c-e1e7460babc0",
+    "id": "af656a9bd8da85a8021d5a7df7b36017eeedf9e7a7f863de41e6e551ac72321f",
     "text_preview": "HR-LA-PO-06\nFamily Leave Pool Policy\nContents\nI. Title\nII. Policy\nIII. Definitions\nIV. Relevant Federal and State Statutes\nV. Relevant UT System Polic...",
     "text_length": 1160,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-LA-PO-06 Family Leave Pool Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 1,
       "chunk_index": 0,
       "chunk_size": 258,
@@ -871,64 +1065,74 @@
     }
   },
   {
-    "id": "0d71e24b-9a10-4898-b716-33b3f4f3ad75",
+    "id": "c82dc53caff95ffa7779f61a7562a511db180c8280c766b111f388b9fa327a2a",
     "text_preview": "Page 2 of 4\nB. Eligibility\n1. This policy applies to any regular UTA hourly or salaried Employee\nwho is appointed to a position for at least twenty ho...",
-    "text_length": 1870,
+    "text_length": 1818,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-LA-PO-06 Family Leave Pool Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 2,
       "chunk_index": 0,
-      "chunk_size": 416,
+      "chunk_size": 400,
       "total_chunks": 6
     }
   },
   {
-    "id": "3fc30f60-945c-4b5e-b0e0-58525d13bc27",
-    "text_preview": " his or her job\nduties or pose a threat to the safety of the Employee or others.\nE. Estate Entitlement\nThe estate of a deceased Employee is not entitl...",
-    "text_length": 273,
+    "id": "f8d390f639194d1cb9919edf89edcacf41c01e0c52e69b43e14a506a75901d5c",
+    "text_preview": " any, exist to the Employee\u2019s ability to perform his or her job\nduties or pose a threat to the safety of the Employee or others.\nE. Estate Entitlement...",
+    "text_length": 321,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-LA-PO-06 Family Leave Pool Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 2,
       "chunk_index": 1,
-      "chunk_size": 66,
+      "chunk_size": 76,
       "total_chunks": 6
     }
   },
   {
-    "id": "9977c96e-6dc8-4e3b-b301-a0687edbe319",
+    "id": "5717e517bbf92d46a8187bd300a175757fb7844e6a80106c82cca3ad3c80f9ba",
     "text_preview": "Page 3 of 4\nIII. Definitions\nEmployee: An eligible employee of the UT System or any of the Texas state\ninstitutions. An eligible employee is defined a...",
-    "text_length": 1919,
+    "text_length": 1888,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-LA-PO-06 Family Leave Pool Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 3,
       "chunk_index": 0,
-      "chunk_size": 407,
+      "chunk_size": 400,
       "total_chunks": 6
     }
   },
   {
-    "id": "0295c606-f6d0-4aa7-93cb-2cafd09904f3",
-    "text_preview": "04 Family\nLeave Pool\nOffice of Talent, Culture, and Engagement Forms and Documents:\nUTA Form DF-HR-LA-F-10 Family Leave Pool Application\nUTA Form DF-H...",
-    "text_length": 225,
+    "id": "61042531a789efcf416c8747ac2aeaab32353c4d4c0ddb20480d062e57ba329f",
+    "text_preview": " and Regulations of the Board of Regents Rule 30204 Family\nLeave Pool\nOffice of Talent, Culture, and Engagement Forms and Documents:\nUTA Form DF-HR-LA...",
+    "text_length": 274,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-LA-PO-06 Family Leave Pool Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 3,
       "chunk_index": 1,
-      "chunk_size": 57,
+      "chunk_size": 67,
       "total_chunks": 6
     }
   },
   {
-    "id": "5cb1ec7b-e245-4e4c-9ed1-229561c96dc0",
+    "id": "4dea25f81c929586e0459c72c3c3bb6af34207fdba77af3625687d8b63a17a00",
     "text_preview": "Page 4 of 4\nVII. UTA Office(s) Responsible for Policy\nResponsible Officer: Vice President of Talent, Culture & Engagement\nSponsoring Department: Talen...",
     "text_length": 422,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-LA-PO-06 Family Leave Pool Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 4,
       "chunk_index": 0,
       "chunk_size": 100,
@@ -936,12 +1140,14 @@
     }
   },
   {
-    "id": "2d5f9bd8-cb87-4485-ab8d-390a0a5cf762",
+    "id": "ddab3e7110bc5759791d1c95d044c561507a1e01264b69f58385813ff3e739ac",
     "text_preview": "HR-LA-PR-04\n\n\nFamily and Medical Leave Act Procedure\n\n\nContents\n\nI. Title\nII. Objective\nIII. Scope\nIV. Procedure\nV. Definitions\nVI. Relevant Federal a...",
     "text_length": 1089,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-LA-PR-04 Family & Medical Leave Act Procedure.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 1,
       "chunk_index": 0,
       "chunk_size": 267,
@@ -949,116 +1155,134 @@
     }
   },
   {
-    "id": "06cc3c63-0354-4283-b35f-f96c88d6c0c2",
+    "id": "9d276df7c8474c2c7244b3e66d56e5c95f8801d1f38031c02dbab07b6a83a8cd",
     "text_preview": "Page 2 of 7\nB. Military Caregiver Leave is calculated using the 12-month period from\nthe date Military Caregiver Leave begins, not the usual 12 month\n...",
-    "text_length": 2225,
+    "text_length": 1792,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-LA-PR-04 Family & Medical Leave Act Procedure.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 2,
       "chunk_index": 0,
-      "chunk_size": 500,
+      "chunk_size": 400,
       "total_chunks": 11
     }
   },
   {
-    "id": "33801588-589c-45ef-b5be-0d0f407e4d60",
-    "text_preview": ". Notice by the University to the Employee\nIt is the University's responsibility to designate leave, paid or unpaid, as\nFMLA-qualifying and to give no...",
-    "text_length": 715,
+    "id": "97eb5cf584521010823d27545dc6efc2de3c5fa34a23ce2941efac30e1037267",
+    "text_preview": ", may not be denied family\nleave.\nD. Notice by the University to the Employee\nIt is the University's responsibility to designate leave, paid or unpaid...",
+    "text_length": 750,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-LA-PR-04 Family & Medical Leave Act Procedure.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 2,
       "chunk_index": 1,
-      "chunk_size": 156,
+      "chunk_size": 166,
       "total_chunks": 11
     }
   },
   {
-    "id": "df12f04c-d7d5-4622-9bd9-d5d416bc8d67",
+    "id": "34919524aa79f5f1043f9767625f9199f7301e36dbab7c97ace29c7195743095",
     "text_preview": "Page 3 of 7\nvarious occasions for a cough, cold, flu, or condition that is not an\nextended illness, those days may not be counted toward the 12-week\ne...",
-    "text_length": 2331,
+    "text_length": 1854,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-LA-PR-04 Family & Medical Leave Act Procedure.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 3,
       "chunk_index": 0,
-      "chunk_size": 500,
+      "chunk_size": 400,
       "total_chunks": 11
     }
   },
   {
-    "id": "764c1c85-d077-4e88-9203-ec40368095b9",
-    "text_preview": " manner required when working. An employee may\npay his or her share of premiums of the health plan in any manner\ncustomarily used by the University.\n1...",
-    "text_length": 871,
+    "id": "d29d0ea8c04959efac50e4d7671f9660a24867a25370f94dbe51f5cfc1e06beb",
+    "text_preview": " her share of the\npremiums in the same manner required when working. An employee may\npay his or her share of premiums of the health plan in any manner...",
+    "text_length": 909,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-LA-PR-04 Family & Medical Leave Act Procedure.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 3,
       "chunk_index": 1,
-      "chunk_size": 182,
+      "chunk_size": 192,
       "total_chunks": 11
     }
   },
   {
-    "id": "d47ffdd1-4033-4fe1-a68d-0746e9ae8394",
+    "id": "812438ccb0a430722b6d275aad6288f28deccbdb43ff15f09d53f9eef1387bf3",
     "text_preview": "Page 4 of 7\nemployee shall not be required to meet any qualification\nrequirements, such as the waiting period or pre-existing\ncondition requirements, ...",
-    "text_length": 2161,
+    "text_length": 1948,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-LA-PR-04 Family & Medical Leave Act Procedure.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 4,
       "chunk_index": 0,
-      "chunk_size": 444,
+      "chunk_size": 400,
       "total_chunks": 11
     }
   },
   {
-    "id": "c6bb95d5-5a35-4385-b205-03ee015f94c1",
-    "text_preview": " be posted in common business areas to notify employees of\ntheir rights and responsibilities under FMLA. The University must also\nsupply to employees ...",
-    "text_length": 455,
+    "id": "fb0212b455f8e9a89808eaa8ec332971cd4a7f0da57d741a80553e41503b2e90",
+    "text_preview": "H. Notice by Employer Requirement\nA notice must be posted in common business areas to notify employees of\ntheir rights and responsibilities under FMLA...",
+    "text_length": 502,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-LA-PR-04 Family & Medical Leave Act Procedure.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 4,
       "chunk_index": 1,
-      "chunk_size": 94,
+      "chunk_size": 104,
       "total_chunks": 11
     }
   },
   {
-    "id": "9727d000-1825-4b7a-8a85-c0fda96db4ea",
+    "id": "e9aa5ef1e17c01c0b051cc29dd0677922b9f6fd3a7fa50dcd36e69f5b8bdd6ac",
     "text_preview": "Page 5 of 7\nThe employer may not discriminate against an individual for having filed\ncharges, instituted any proceeding under or related to FMLA, or g...",
-    "text_length": 2048,
+    "text_length": 1953,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-LA-PR-04 Family & Medical Leave Act Procedure.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 5,
       "chunk_index": 0,
-      "chunk_size": 419,
+      "chunk_size": 400,
       "total_chunks": 11
     }
   },
   {
-    "id": "4abac516-1226-434b-ab43-a5f7178f7125",
-    "text_preview": " and medical histories of the employee\nor employee's family members are maintained in separate files and\ntreated as confidential medical records. Ther...",
-    "text_length": 371,
+    "id": "1a2d825bb366dd83f82191d5effd57629439d423145f339d9cbd05cc19d787f0",
+    "text_preview": " to medical\ncertifications, recertification, and medical histories of the employee\nor employee's family members are maintained in separate files and\nt...",
+    "text_length": 415,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-LA-PR-04 Family & Medical Leave Act Procedure.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 5,
       "chunk_index": 1,
-      "chunk_size": 69,
+      "chunk_size": 79,
       "total_chunks": 11
     }
   },
   {
-    "id": "661eded8-7727-460f-8a30-42318cb118ae",
+    "id": "b70fe29bd224f462a90ecc0dfd8735b0e3b4b8490249da6a46f6ea816f475a4e",
     "text_preview": "Page 6 of 7\nemployee's physical conditions require medical treatment; and\ngovernmental officials investigating compliance with the FMLA.\nK. Coordinati...",
     "text_length": 1505,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-LA-PR-04 Family & Medical Leave Act Procedure.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 6,
       "chunk_index": 0,
       "chunk_size": 340,
@@ -1066,12 +1290,14 @@
     }
   },
   {
-    "id": "55ea4cb8-0be0-4d7e-8c14-baaac98cb028",
+    "id": "89c83109a2b4b52d49f91ae25278109f5e0d438da7cd61cb7d632bff709515f3",
     "text_preview": "Page 7 of 7\nSeptember 23, 2025\nXI. Contact Information\nAll questions regarding this policy should be directed to: askhr@uta.edu\nSend notifications of ...",
     "text_length": 190,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-LA-PR-04 Family & Medical Leave Act Procedure.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 7,
       "chunk_index": 0,
       "chunk_size": 50,
@@ -1079,12 +1305,14 @@
     }
   },
   {
-    "id": "d18a66c6-c3db-403b-9441-815611dfede4",
+    "id": "efd332cfbea25c1721f8a3425f1f36a05f74d3ca86d24d6806403c4de4ccf031",
     "text_preview": "HR-SPE-PO-01\n\nAnnual Performance Evaluations Policy\n\n\nContents\n\nI. Title\nII. Policy\nIII. Definitions\nIV. Relevant Federal and State Statutes\nV. Releva...",
     "text_length": 1314,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-SPE-PO-01 Annual Performance Evaluations Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 1,
       "chunk_index": 0,
       "chunk_size": 288,
@@ -1092,12 +1320,14 @@
     }
   },
   {
-    "id": "ea60d383-973a-4a8e-b9b4-00f69735acf9",
+    "id": "6b9505f9b19e23524c786bed1a559c8aa4bd323a0228f01566d2fc32202c3168",
     "text_preview": "Page 2 of 3\n\nD. Academic-Professional-Track Faculty\nSee UTA Policy AA-FPT-PO-07 Titles and Promotions of Academic-\nProfessional-Track Faculty\nE. Adjun...",
     "text_length": 1867,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-SPE-PO-01 Annual Performance Evaluations Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 2,
       "chunk_index": 0,
       "chunk_size": 379,
@@ -1105,12 +1335,14 @@
     }
   },
   {
-    "id": "eae060ba-0b54-4716-95e7-d07c883829b5",
+    "id": "b348846a4e5c9ce0cf21ed75aaae2f00b72811c145dd17b480cbc94ed34e9007",
     "text_preview": "Page 3 of 3\nV. Relevant UT System Policies, Procedures and Forms\nUTA Procedure HR-SPE-PR-01 Staff Performance Management Review\n\nVI. Who Should Know\nA...",
     "text_length": 654,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-SPE-PO-01 Annual Performance Evaluations Policy.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 3,
       "chunk_index": 0,
       "chunk_size": 163,
@@ -1118,12 +1350,14 @@
     }
   },
   {
-    "id": "945648d6-2e46-45f9-b785-aa9e6d8e7898",
+    "id": "7037185e52f154d14e14187b66986c824e43c7d6589a85f9bafc5de1361110bc",
     "text_preview": "HR-SPE-PR-01\nStaff Performance Management Review Procedure\nContents\nI. Title\nII. Objective\nIII. Scope\nIV. Procedure\nV. Definitions\nVI. Relevant Federa...",
     "text_length": 1136,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-SPE-PR-01 Staff Performance Management Review Procedure.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 1,
       "chunk_index": 0,
       "chunk_size": 240,
@@ -1131,38 +1365,44 @@
     }
   },
   {
-    "id": "fc6aca0a-8adc-4ce7-a0fb-f22876d4aefc",
+    "id": "15450ff899fcf1b9ec51eadd4d4fb06b045fc6f88d2306ea95d2121edd49fb9b",
     "text_preview": "Page 2 of 4\nemployees for the purpose of performance improvement, promotion consideration,\nand merit salary review.\nPerformance evaluations are based ...",
-    "text_length": 2190,
+    "text_length": 2080,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-SPE-PR-01 Staff Performance Management Review Procedure.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 2,
       "chunk_index": 0,
-      "chunk_size": 418,
+      "chunk_size": 400,
       "total_chunks": 5
     }
   },
   {
-    "id": "0124970d-7c63-4701-9ed4-361f956f3673",
-    "text_preview": " department in the middle of a\nperformance review cycle, reviews from the previous department and the\ncurrent department will be taken into considerat...",
-    "text_length": 368,
+    "id": "fefa36e805878993986361272bfe54c02f7ad7931e935c2a44be8e002ed4f99f",
+    "text_preview": " and Position Changes\nIf an employee transfers to another department in the middle of a\nperformance review cycle, reviews from the previous department...",
+    "text_length": 425,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-SPE-PR-01 Staff Performance Management Review Procedure.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 2,
       "chunk_index": 1,
-      "chunk_size": 68,
+      "chunk_size": 78,
       "total_chunks": 5
     }
   },
   {
-    "id": "9ed9f9ef-bfdb-4ab4-b302-4f6b77c93efc",
+    "id": "1e1a9521c6ec50e02655290ae55d0a33c90f0278e74b1d171c15b5f1b95bf1f5",
     "text_preview": "Page 3 of 4\nregarding e-performance is available on the Office of Talent, Culture\n& Engagement website.\n2. The completed annual Performance Review in ...",
     "text_length": 1321,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-SPE-PR-01 Staff Performance Management Review Procedure.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 3,
       "chunk_index": 0,
       "chunk_size": 287,
@@ -1170,12 +1410,14 @@
     }
   },
   {
-    "id": "9b6f5f87-5ecb-4af2-bf09-7c30afbe0414",
+    "id": "d1dffe3f3b5d4c48cd4ce3f4c64e13b13a5e0a8da4302f951e941f9713fb1fca",
     "text_preview": "Page 4 of 4\nMarch 24, 2025 (Last Reviewed)\nXI. Contact Information\nAll questions regarding this procedure should be directed to the Vice President for...",
     "text_length": 257,
     "embedding_length": 3072,
     "metadata": {
       "source": "HR-SPE-PR-01 Staff Performance Management Review Procedure.pdf",
+      "policy_type": null,
+      "section_name": null,
       "page": 4,
       "chunk_index": 0,
       "chunk_size": 63,

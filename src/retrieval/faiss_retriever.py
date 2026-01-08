@@ -18,13 +18,13 @@ load_dotenv()
 LOGGER = logging.getLogger(__name__)
 
 # EMBEDDING MODE SWITCH (CRITICAL FOR SAFE ROLLOUT)
-# Set via environment variable: EMBEDDING_MODE="mock" or EMBEDDING_MODE="openai"
+# Set via environment variable: EMBEDDING_MODE="mock" | "tfidf" | "openai"
 # Default to "mock" for backward compatibility during testing
 EMBEDDING_MODE = os.getenv("EMBEDDING_MODE", "mock").lower()
 
-if EMBEDDING_MODE not in ("mock", "openai"):
-    LOGGER.error(f"Invalid EMBEDDING_MODE: {EMBEDDING_MODE}. Must be 'mock' or 'openai'")
-    raise ValueError(f"EMBEDDING_MODE must be 'mock' or 'openai', got '{EMBEDDING_MODE}'")
+if EMBEDDING_MODE not in ("mock", "tfidf", "openai"):
+    LOGGER.error(f"Invalid EMBEDDING_MODE: {EMBEDDING_MODE}. Must be 'mock', 'tfidf' or 'openai'")
+    raise ValueError(f"EMBEDDING_MODE must be 'mock', 'tfidf' or 'openai', got '{EMBEDDING_MODE}'")
 
 LOGGER.info(f"FAISS retriever initialized with EMBEDDING_MODE='{EMBEDDING_MODE}'")
 
@@ -50,6 +50,7 @@ INDEX_FILENAME_CANDIDATES = [Path("faiss_index_openai.index"), Path("faiss_index
 DOCUMENTS_PATH = Path("temp_storage") / "03_embedded_documents.json"
 METADATA_PATH = Path("temp_storage") / "04_metadata_mapping.json"
 EMBED_DIM = 3072
+TFIDF_VECTORIZER_PATH = Path("temp_storage") / "tfidf_vectorizer.pkl"
 
 
 def load_retrieval_assets(index_path: Path | None = None) -> Tuple[faiss.Index, List[Dict[str, Any]], Dict[str, Any]]:
@@ -96,17 +97,47 @@ def load_retrieval_assets(index_path: Path | None = None) -> Tuple[faiss.Index, 
         print("FAISS index file not found on disk — building in-memory FAISS index from embedded documents' embeddings.")
         # Extract embeddings from documents (generate deterministic mock embeddings when missing)
         vecs = []
-        for i, doc in enumerate(documents):
-            emb = doc.get("embedding")
-            if emb is None:
-                # Create a deterministic mock embedding based on doc id/text so retrieval works for learning/testing
-                print(f"Document {i} missing 'embedding' — generating deterministic mock embedding for document id={doc.get('id')}")
-                emb_vec = embed_from_document(doc)
-            else:
-                emb_vec = np.array(emb, dtype=np.float32)
-                if emb_vec.shape[0] != EMBED_DIM:
-                    raise ValueError(f"Embedding for document {doc.get('id')} has incorrect dimension {emb_vec.shape}")
-            vecs.append(emb_vec)
+        # TF-IDF mode: fit a vectorizer across all documents if embeddings missing
+        if EMBEDDING_MODE == "tfidf":
+            try:
+                from src.embeddings.tfidf_embeddings import fit_tfidf, save_vectorizer
+            except Exception:
+                raise
+
+            texts = [
+                (doc.get("text") or doc.get("content") or doc.get("text_preview") or "")
+                for doc in documents
+            ]
+
+            # If a saved vectorizer exists, prefer loading it and transforming (avoid refit)
+            try:
+                from src.embeddings.tfidf_embeddings import load_vectorizer, transform_query
+                vec = load_vectorizer(TFIDF_VECTORIZER_PATH)
+                if vec is None:
+                    vec, embeddings_matrix = fit_tfidf(texts, max_features=4096)
+                    save_vectorizer(vec, TFIDF_VECTORIZER_PATH)
+                else:
+                    # transform texts
+                    embeddings_matrix = vec.transform(texts).astype(np.float32).toarray()
+                    from sklearn.preprocessing import normalize
+                    embeddings_matrix = normalize(embeddings_matrix, norm="l2", axis=1).astype(np.float32)
+
+                for emb_vec in embeddings_matrix:
+                    vecs.append(np.array(emb_vec, dtype=np.float32))
+            except Exception:
+                raise
+        else:
+            for i, doc in enumerate(documents):
+                emb = doc.get("embedding")
+                if emb is None:
+                    # Create a deterministic mock embedding based on doc id/text so retrieval works for learning/testing
+                    print(f"Document {i} missing 'embedding' — generating deterministic mock embedding for document id={doc.get('id')}")
+                    emb_vec = embed_from_document(doc)
+                else:
+                    emb_vec = np.array(emb, dtype=np.float32)
+                    if emb_vec.shape[0] != EMBED_DIM:
+                        raise ValueError(f"Embedding for document {doc.get('id')} has incorrect dimension {emb_vec.shape}")
+                vecs.append(emb_vec)
 
         xb = np.vstack(vecs).astype(np.float32)
         # Normalize to unit length for cosine-like inner product
@@ -141,6 +172,19 @@ def embed_query(query: str) -> np.ndarray:
         vec = vec.reshape(1, -1).astype(np.float32)
         faiss.normalize_L2(vec)
         return vec[0]
+    elif EMBEDDING_MODE == "tfidf":
+        # Use TF-IDF vectorizer to transform the query
+        try:
+            from src.embeddings.tfidf_embeddings import load_vectorizer, transform_query
+        except Exception:
+            raise
+        vec = load_vectorizer(TFIDF_VECTORIZER_PATH)
+        if vec is None:
+            raise RuntimeError("TF-IDF vectorizer not found. Rebuild embeddings first to fit vectorizer.")
+        emb = transform_query(vec, query)
+        arr = np.array(emb, dtype=np.float32).reshape(1, -1)
+        faiss.normalize_L2(arr)
+        return arr[0]
     else:
         # Deterministic seed from query hash (mock mode)
         h = hashlib.sha256(query.encode("utf-8")).hexdigest()

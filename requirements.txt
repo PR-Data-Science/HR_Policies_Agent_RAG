@@ -5,3 +5,6 @@ pypdf>=3.0.0
 tiktoken>=0.5.0
 faiss-cpu>=1.7.0
 numpy>=1.21.0
+
+# TF-IDF baseline
+scikit-learn>=1.0.0
